@@ -60,6 +60,9 @@
     {% elsif post.paperurl %}
       <p><b>Download</b> <a href=" {{ post.paperurl }} "><u><b>here</b></u></a></p>
     {% endif %}
+    {% if page.paperfile %}
+        <p><b>Download paper here:</b> <a href="{{ page.paperfile }}"><u>{{ page.paperurl }}</u></a> </p>
+    {% endif %}
 
   </article>
 </div>
