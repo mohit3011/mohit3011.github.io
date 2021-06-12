@@ -12,4 +12,3 @@ Abstract: The exponential rise of online social media has enabled the creation, 
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Mohit Chandra, Dheeraj Pailla, Himanshu Bhatia, Aadilmehdi Sanchawala, Manish Gupta, Manish Shrivastava, and Ponnurangam Kumaraguru. 2021. “Subverting the Jewtocracy”: Online Antisemitism Detection Using Multimodal Deep Learning. In 13th ACM Web Science Conference 2021 (WebSci’21), June 21–25, 2021, Virtual Event, United Kingdom. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3447535.3462502
