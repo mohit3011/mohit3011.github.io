@@ -47,10 +47,15 @@ layout: default
         {% endif %}
              
         {% if page.citation and page.paperurl %}
-          <p><b>Recommended Citation:</b> {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
+          <p><b>Recommended Citation:</b> {{ page.citation }}</p>
+          <p><a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
         {% elsif page.citation %}
           <p><b>Recommended Citation:</b> {{ page.citation }} </p>
         {% endif %}
+        {% if page.paperfile %}
+          <p><b>Download paper here:</b> <a href="{{ page.paperfile }}"><u>{{ page.paperurl }}</u></a> </p>
+        {% endif %}
+       
     
         </header>
       {% endunless %}
