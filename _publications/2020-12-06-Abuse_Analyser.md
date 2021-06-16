@@ -6,7 +6,7 @@ abstract: 'While extensive popularity of online social media platforms has made 
 date: '06-12-2020'
 venue: '28th International Conference on Computational Linguistics (COLING 2020)'
 paperurl: 'https://www.aclweb.org/anthology/2020.coling-main.552/'
-paperfile: http://academicpages.github.io/files/Abuse_Analyser.pdf
+paperfile: http://mohit3011.github.io/files/Abuse_Analyser.pdf
 authors: '<b>Mohit Chandra</b>, Ashwin Pathak, Eesha Dutta, Paryul Jain, Manish Gupta, Manish Shrivastava, Ponnurangam Kumaraguru'
-citation: 'Mohit Chandra, Ashwin Pathak, Eesha Dutta, Paryul Jain, Manish Gupta, Manish Shrivastava, and Ponnurangam Kumaraguru. 2020. AbuseAnalyzer: Abuse Detection, Severity and Target Prediction for Gab Posts. In COLING. 6277–6283.'
+citation: 'Mohit Chandra, Ashwin Pathak, Eesha Dutta, Paryul Jain, Manish Gupta, Manish Shrivastava, and Ponnurangam Kumaraguru. 2020. AbuseAnalyzer: Abuse Detection, Severity and Target Prediction for Gab Posts. In COLING. 6277–6283.'
 ---
