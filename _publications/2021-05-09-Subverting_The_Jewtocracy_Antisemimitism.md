@@ -7,6 +7,7 @@ date: '20-05-2021'
 venue: '13th ACM Web Science Conference 2021 (WebSci’21)'
 paperurl: 'https://arxiv.org/pdf/2104.05947.pdf'
 paperfile: http://academicpages.github.io/files/paper3.pdf
+authors: '<b>Mohit Chandra</b>, Dheeraj Pailla, Himanshu Bhatia, Aadilmehdi Sanchawala, Manish Gupta, Manish Shrivastava, and Ponnurangam Kumaraguru'
 citation: 'Mohit Chandra, Dheeraj Pailla, Himanshu Bhatia, Aadilmehdi Sanchawala, Manish Gupta, Manish Shrivastava, and Ponnurangam Kumaraguru. 2021. “Subverting the Jewtocracy”: Online Antisemitism Detection Using Multimodal Deep Learning. In 13th ACM Web Science Conference 2021 (WebSci’21), June 21–25, 2021, Virtual Event, United Kingdom. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3447535.3462502'
 ---
 
