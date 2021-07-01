@@ -16,7 +16,7 @@ Experience
 <div style="justify-content:space-between;">
 <img src="/images/gt_logo.png" alt="Markdown Monster icon" style="max-width:20%; height:auto;"/>
 <img src="/images/gt_logo.png" alt="Markdown Monster icon" style="max-width:20%; height:auto;"/>
-</dv>
+</div>
 
 
 Getting Started
