@@ -13,8 +13,9 @@ I'm Mohit, currently I'm wondering what should I write:p
 Experience
 ------
 
-<img src="/images/gt_logo.png" alt="Markdown Monster icon" style="float: left; margin-right: 10px; max-width:25%; height:auto;"/>
-
+<img src="/images/gt_logo.png" alt="Markdown Monster icon" style="margin-right: 10px; max-width:20%; height:auto;"/>
+<img src="/images/gt_logo.png" alt="Markdown Monster icon" style="margin-right: 50px; max-width:20%; height:auto;"/>
+\
 Getting started
 ======
 
