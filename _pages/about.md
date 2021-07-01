@@ -14,10 +14,10 @@ Experience
 ======
 
 <div style="display: flex; justify-content:space-between;">
-<img src="/images/gt_logo.png" alt="Markdown Monster icon" style="max-width:20%; height:auto;"/>
-<img src="/images/ms_logo.png" alt="Markdown Monster icon" style="max-width:20%; height:auto;"/>
-<img src="/images/iiit_logo.png" alt="Markdown Monster icon" style="max-width:20%; height:auto;"/>
-<img src="/images/precog_logo.png" alt="Markdown Monster icon" style="max-width:20%; height:auto;"/>
+<img src="/images/gt_logo.png" alt="Markdown Monster icon" style="max-width:15%; height:auto;"/>
+<img src="/images/ms_logo.png" alt="Markdown Monster icon" style="max-width:15%; height:auto;"/>
+<img src="/images/iiit_logo.png" alt="Markdown Monster icon" style="max-width:15%; height:auto;"/>
+<img src="/images/precog_logo.png" alt="Markdown Monster icon" style="max-width:25%; height:auto;"/>
 </div>
 
 
