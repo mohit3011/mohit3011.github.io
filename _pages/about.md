@@ -13,7 +13,7 @@ I'm Mohit, currently I'm wondering what should I write:p
 Experience
 ======
 
-<div style="justify-content:space-between;">
+<div style="display: flex; justify-content:space-between;">
 <img src="/images/gt_logo.png" alt="Markdown Monster icon" style="max-width:20%; height:auto;"/>
 <img src="/images/gt_logo.png" alt="Markdown Monster icon" style="max-width:20%; height:auto;"/>
 </div>
