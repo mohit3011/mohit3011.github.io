@@ -13,7 +13,7 @@ I'm Mohit, currently I'm wondering what should I write:p
 Experience
 ------
 
-<img src="https://brand.gatech.edu/sites/default/files/inline-images/gt-logo-gold.png" alt="Markdown Monster icon" style="float: left; margin-right: 10px; max-width:10%; height:auto;"/>
+<img src="/images/gt_logo.png" alt="Markdown Monster icon" style="float: left; margin-right: 10px; max-width:25%; height:auto;"/>
 
 Getting started
 ======
