@@ -10,14 +10,16 @@ redirect_from:
 
 I am currently working as a Software Engineer(AI/ML) in the STCI Search team at Microsoft, Hyderabad (India). I work on applying NLP and Data Science based methods to improve the quality of answers shown for "Tech Queries" on <a href="https://www.bing.com/">Bing.com</a>, ultimately providing a better user experience. I like to work on impactful user facing problems!
 
-Apart from the industry-driven work, I also work on academic research problem. I am mainly interested in the area of intersection between  <a href="https://en.wikipedia.org/wiki/Natural_language_processing">Natuaral Language Processing (NLP)</a> and <a href="https://en.wikipedia.org/wiki/Computational_social_science">Computational Social Science (CSS)</a>. 
+Apart from the industry-driven work, I also work on academic research problems. I am mainly interested in the area of intersection between  <a href="https://en.wikipedia.org/wiki/Natural_language_processing">Natuaral Language Processing (NLP)</a> and <a href="https://en.wikipedia.org/wiki/Computational_social_science">Computational Social Science (CSS)</a>. Presently, I am working as Research Assistant at Geogia Tech with <a href="http://www.munmund.net/">Prof. Munmun De Choudhury</a> and at Precog@IIITH with <a href="https://precog.iiitd.edu.in/ ">Prof. Ponnurangam Kumaraguru</a>.
 
 
 Experience
 ======
 
 <div style="display: flex; justify-content:space-evenly;">
-<img src="/images/gt_logo.png" alt="Markdown Monster icon" style="max-width:18%; height:auto; object-fit: contain;"/>
+<span><img src="/images/gt_logo.png" alt="Markdown Monster icon" style="max-width:18%; height:auto; object-fit: contain;"/></span><span>I am interested in the interdisciplinary areas of computational social science and social computing. By complementing multimodal datastreams with social media, I adopt methods from machine learning, statistics, natural language, and causal inference analysis to sense, predict, and examine wellbeing and psychosocial dynamics of individuals and collectives, particularly in situated contexts, such as college campuses and workplaces.</span>
+</div>
+<div style="display: flex; justify-content:space-evenly;">
 <img src="/images/ms_logo.png" alt="Markdown Monster icon" style="max-width:18%; height:auto; object-fit: contain;"/>
 <img src="/images/iiit_logo.png" alt="Markdown Monster icon" style="max-width:18%; height:auto; object-fit: contain;"/>
 <img src="/images/precog_logo.png" alt="Markdown Monster icon" style="max-width:18%; height:auto; object-fit: contain;"/>
