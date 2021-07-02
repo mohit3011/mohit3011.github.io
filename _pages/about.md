@@ -16,9 +16,34 @@ Apart from the industry-driven work, I also work on academic research problems. 
 Experience
 ======
 
-<div style="display: flex; justify-content:space-evenly;">
-<span><img src="/images/gt_logo.png" alt="Markdown Monster icon" style="max-width:18%; height:auto; object-fit: contain;"/></span><span>I am interested in the interdisciplinary areas of computational social science and social computing. By complementing multimodal datastreams with social media, I adopt methods from machine learning, statistics, natural language, and causal inference analysis to sense, predict, and examine wellbeing and psychosocial dynamics of individuals and collectives, particularly in situated contexts, such as college campuses and workplaces.</span>
+<div class="row"> 
+  <span style="width:25%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/ms_logo.png" alt="Microsoft Icon" style="max-width:70%; height:auto; object-fit: contain; margin:auto;"></span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;">I am interested in the interdisciplinary areas of computational social science and social computing. By complementing multimodal datastreams with social media, I adopt methods from machine learning, statistics, natural language, and causal inference analysis to sense, predict, and examine wellbeing and psychosocial dynamics of individuals and collectives, particularly in situated contexts, such as college campuses and workplaces.        </span>
 </div>
+
+------
+
+<div class="row"> 
+  <span style="width:25%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/gt_logo.png" alt="Georgia Tech Icon" style="max-width:70%; height:auto; object-fit: contain; margin:auto;"></span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;">I am interested in the interdisciplinary areas of computational social science and social computing. By complementing multimodal datastreams with social media, I adopt methods from machine learning, statistics, natural language, and causal inference analysis to sense, predict, and examine wellbeing and psychosocial dynamics of individuals and collectives, particularly in situated contexts, such as college campuses and workplaces.        </span>
+</div>
+
+------
+
+<div class="row"> 
+  <span style="width:25%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/precog_logo.png" alt="Precog Icon" style="max-width:70%; height:auto; object-fit: contain; margin:auto;"></span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;">I am interested in the interdisciplinary areas of computational social science and social computing. By complementing multimodal datastreams with social media, I adopt methods from machine learning, statistics, natural language, and causal inference analysis to sense, predict, and examine wellbeing and psychosocial dynamics of individuals and collectives, particularly in situated contexts, such as college campuses and workplaces.        </span>
+</div>
+
+------
+
+<div class="row"> 
+  <span style="width:25%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/iiit_logo.png" alt="IIIT Hyderabad Icon" style="max-width:70%; height:auto; object-fit: contain; margin:auto;"></span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;">I am interested in the interdisciplinary areas of computational social science and social computing. By complementing multimodal datastreams with social media, I adopt methods from machine learning, statistics, natural language, and causal inference analysis to sense, predict, and examine wellbeing and psychosocial dynamics of individuals and collectives, particularly in situated contexts, such as college campuses and workplaces.        </span>
+</div>
+
+------
+
 <div style="display: flex; justify-content:space-evenly;">
 <img src="/images/ms_logo.png" alt="Markdown Monster icon" style="max-width:18%; height:auto; object-fit: contain;"/>
 <img src="/images/iiit_logo.png" alt="Markdown Monster icon" style="max-width:18%; height:auto; object-fit: contain;"/>
