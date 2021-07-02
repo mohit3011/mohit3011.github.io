@@ -10,6 +10,9 @@ redirect_from:
 
 I am currently working as a Software Engineer(AI/ML) in the STCI Search team at Microsoft, Hyderabad (India). I work on applying NLP and Data Science based methods to improve the quality of answers shown for "Tech Queries" on <a href="https://www.bing.com/">Bing.com</a>, ultimately providing a better user experience. I like to work on impactful user facing problems!
 
+Apart from the industry-driven work, I also work on academic research problem. I am mainly interested in the area of intersection between  <a href="https://en.wikipedia.org/wiki/Natural_language_processing">Natuaral Language Processing (NLP)</a> and <a href="https://en.wikipedia.org/wiki/Computational_social_science">Computational Social Science (CSS)</a>. 
+
+
 Experience
 ======
 
