@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Mohit, currently I'm wondering what should I write:p
+I am currently working as a Software Engineer(AI/ML) in the STCI Search team at Microsoft, Hyderabad (India). I work on applying NLP and Data Science based methods to improve the quality of answers shown for "Tech Queries" on <a href="https://www.bing.com/">Bing.com</a>, ultimately providing a better user experience. I like to work on impactful user facing problems!
 
 Experience
 ======
