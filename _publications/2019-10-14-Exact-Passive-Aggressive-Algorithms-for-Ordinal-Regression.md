@@ -6,7 +6,7 @@ abstract: 'In this article, we propose exact passive-aggressive (PA) online algo
 date: '14-10-2019'
 venue: 'IEEE Transactions on Neural Networks and Learning Systems ( Volume: 31, Issue: 9, Sept. 2020)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8867949'
-paperfile: http://academicpages.github.io/files/Exact_Passive-Aggressive_Algorithms.pdf
+paperfile: http://academicpages.github.io/files/Exact_Passive_Aggressive_Algorithms.pdf
 authors: 'Naresh Manwani, <b>Mohit Chandra</b>'
 citation: 'N. Manwani and M. Chandra, "Exact Passive-Aggressive Algorithms for Ordinal Regression Using Interval Labels," in IEEE Transactions on Neural Networks and Learning Systems, vol. 31, no. 9, pp. 3259-3268, Sept. 2020, doi: 10.1109/TNNLS.2019.2939861.'
 ---
