@@ -7,6 +7,6 @@ date: '30-08-2021'
 venue: '32nd ACM Conference on Hypertext and Social Media (HT ’21)'
 paperurl: 'https://dl.acm.org/doi/10.1145/3465336.3475111'
 paperfile: http://mohit3011.github.io/files/A_Virus_Has_No_Religion.pdf
-authors: '<b>Mohit Chandra*</b>, Manvith Reddy*, Shradha Sehgal*, Saurabh Gupta, Arun Balaji Buduru, Ponnurangam Kumaraguru. (* Authors contributed equally to this research)'
+authors: '<b>Mohit Chandra*</b>, Manvith Reddy*, Shradha Sehgal*, Saurabh Gupta, Arun Balaji Buduru, Ponnurangam Kumaraguru. <br>(* Authors contributed equally to this research)'
 citation: 'Mohit Chandra, Manvith Reddy, Shradha Sehgal, Saurabh Gupta, Arun Balaji Buduru, and Ponnurangam Kumaraguru. 2021. "A Virus Has No Religion": Analyzing Islamophobia on Twitter During the COVID-19 Outbreak. In Proceedings of the 32nd ACM Conference on Hypertext and Social Media (HT ’21). Association for Computing Machinery, New York, NY, USA, 67–77. DOI:https://doi.org/10.1145/3465336.3475111'
 ---
