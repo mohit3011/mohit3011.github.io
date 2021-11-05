@@ -17,8 +17,8 @@ Experience
 ======
 
 <div class="row"> 
-  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/ms_logo.png" alt="Microsoft Icon" style="max-width:90%; height:auto; object-fit: contain; margin:auto;">Presently working as Software Engineer in the Bing Team (STCI) at Microsoft IDC. I'm currently handling the developer segment on Bing.com that is responsible for presenting "Coding" related answers to the user queries. In adittion to this, I also work on the Question and Answer segment that is used for answering multiple user query intents such as "How to &#60; do some action &#62;", Trivia related to Technology and Technology products.</span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;"></span>
+  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/ms_logo.png" alt="Microsoft Icon" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;">Presently working as Software Engineer in the Bing Team (STCI) at Microsoft IDC. I'm currently handling the developer segment on Bing.com that is responsible for presenting "Coding" related answers to the user queries. In adittion to this, I also work on the Question and Answer segment that is used for answering multiple user query intents such as "How to &#60; do some action &#62;", Trivia related to Technology and Technology products.</span>
 </div>
 
 ------
