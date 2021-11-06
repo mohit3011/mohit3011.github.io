@@ -7,17 +7,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="font-size=1.15vw;">
+<p style="font-size=1.15vw;">
 I am currently working as a Software Engineer(AI/ML) in the STCI Search team at Microsoft, Hyderabad (India). I work on applying NLP and Data Science based methods to create new experiences and improve the quality of answers shown for "Tech Queries" on <a href="https://www.bing.com/">Bing.com</a>, ultimately providing a better user experience. I like to work on impactful user facing problems!
+</p>
 
+<p style="font-size=1.15vw;">
 Apart from the industry-driven work, I also work on academic research problems. I am mainly interested in the area of intersection between  <a href="https://en.wikipedia.org/wiki/Natural_language_processing">Natuaral Language Processing (NLP)</a> and <a href="https://en.wikipedia.org/wiki/Computational_social_science">Computational Social Science (CSS)</a>. Presently, I am working as a Research Associate at Geogia Tech with <a href="http://www.munmund.net/">Prof. Munmun De Choudhury</a> and at Precog@IIITH with <a href="https://precog.iiitd.edu.in/ ">Prof. Ponnurangam Kumaraguru</a>.
-
-</div>
+</p>
 
 Updates
 ======
 
-* <b>[July 2021]:</b> Our work <b>“A Virus Has No Religion”: Analyzing Islamophobia on Twitter During the COVID-19 Outbreak</b> has been accepted at the proceedings of 32nd ACM Conference on Hypertext and Social Media (HT ’21).
+* <p style="font-size=1.15vw;"><b>[July 2021]:</b> Our work <b>“A Virus Has No Religion”: Analyzing Islamophobia on Twitter During the COVID-19 Outbreak</b> has been accepted at the proceedings of 32nd ACM Conference on Hypertext and Social Media (HT ’21).<p>
+* <p style="font-size=1.15vw;"><b>[July 2021]:</b> Our work <b>“A Virus Has No Religion”: Analyzing Islamophobia on Twitter During the COVID-19 Outbreak</b> has been accepted at the proceedings of 32nd ACM Conference on Hypertext and Social Media (HT ’21).<p>
+*
 
 Experience
 ======
@@ -52,7 +55,7 @@ Experience
 
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/iiit_logo.png" alt="IIIT Hyderabad Icon" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size=1.15vw;"><b>[2015-2021]</b> </span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size=1.15vw;"><b>[2017-2020]</b> Worked as a Teaching Assistant for Statistical Methods in AI (twice), Design and Analysis of Software Systems (twice), Operating Systems and Distributed Systems. Responsible for setting up the assignments, checking papers and taking tutorials.</span>
 </div>
 
 ------
