@@ -18,8 +18,9 @@ Apart from the industry-driven work, I also work on academic research problems. 
 Updates
 ======
 
-* <p style="font-size=1.15vw;"><b>[July 2021]:</b> Our work <b>“A Virus Has No Religion”: Analyzing Islamophobia on Twitter During the COVID-19 Outbreak</b> has been accepted at the proceedings of 32nd ACM Conference on Hypertext and Social Media (HT ’21).</p>
-* <p style="font-size=1.15vw;"><b>[July 2021]:</b> Our work <b>“A Virus Has No Religion”: Analyzing Islamophobia on Twitter During the COVID-19 Outbreak</b> has been accepted at the proceedings of 32nd ACM Conference on Hypertext and Social Media (HT ’21).</p>
+* <p style="font-size=0.9vw;"><b>[July 2021]:</b> Our work <b>“A Virus Has No Religion”: Analyzing Islamophobia on Twitter During the COVID-19 Outbreak</b> has been accepted at the proceedings of 32nd ACM Conference on Hypertext and Social Media (HT ’21).</p>
+* <p style="font-size=0.9vw;"><b>[June 2021]:</b> Invited as a speaker at the AI/ML Venture event organised by Girl Up Ahsaas. I'll be talking about getting started with academic research and opportunities in the industry.</p>
+* <p style="font-size=0.9vw;"><b>[April 2021]:</b> Our work <b>“Subverting the Jewtocracy”: Online Antisemitism Detection Using Multimodal Deep Learning</b> has been accepted at the proceedings of 13th ACM Web Science Conference (WebSci’21).</p>
 
 
 Experience
