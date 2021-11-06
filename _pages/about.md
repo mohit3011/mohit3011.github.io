@@ -32,14 +32,14 @@ Experience
 
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/smu_logo.jpeg" alt="SMU Icon" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;"><b>[2021-Present]</b> Working as an extrenal collaborator with <a href="https://jisun.me/">Dr. Jisun An</a> from <a href="https://www.smu.edu.sg/">Singapore Management University</a>. The project aims at analzing the rising problem of Islamophobia in the Indian Sub-continent. Specifically we are performing a user level study to analyse the patterns in spreading online hate.</span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;"><b>[2021-Present]</b> Working as an extrenal collaborator with <a href="https://jisun.me/">Dr. Jisun An</a> from <a href="https://www.smu.edu.sg/">Singapore Management University</a>. The project aims at analyzing the rising problem of Islamophobia in the Indian Sub-continent. Specifically we are performing a user level study to analyse the patterns in spread of online hate against the Muslim community.</span>
 </div>
 
 ------
 
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/precog_logo.png" alt="Precog Icon" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;">I am interested in the interdisciplinary areas of computational social science and social computing. By complementing multimodal datastreams with social media, I adopt methods from machine learning, statistics, natural language, and causal inference analysis to sense, predict, and examine wellbeing and psychosocial dynamics of individuals and collectives, particularly in situated contexts, such as college campuses and workplaces.        </span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;"><b>[2018-2020]</b> Worked as a Research Assistant with <a href="https://precog.iiit.ac.in/">Prof. Ponnurangam Kumaraguru</a> for my masters thesis. My work focused in the area of content moderation, specifically I worked on etection and analysis of hate speech on social media platforms. During this period, I worked on general purpose abuse detection, multimodal Antisemitism detection and large-scale quantitative study analyzing Islamophobia.</span>
 </div>
 
 ------
