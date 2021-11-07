@@ -41,7 +41,7 @@ Experience
 
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/gt_logo.png" alt="Georgia Tech Icon" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size=1.15vw;"><b>[2021-Present]</b> Collaborating as an external Research Associate at <a href="https://www.gatech.edu/">Georgia Institute of Technology</a> with <a href="http://www.munmund.net/">Prof. Munmun De Choudhury</a>. My current work deals with the analysis of changes in the workplace and working culture during the COVID-19 pandemic. Our project aims to build a prediction model that can be used to predict the chances of success for an organization in creating a healthy work culture and working environment in the post COVID-19 era.</span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size=1.15vw;"><b>[2021-Present]</b> Collaborating as an external Research Associate at <a href="https://www.gatech.edu/">Georgia Institute of Technology</a> with <a href="http://www.munmund.net/">Prof. Munmun De Choudhury</a>. My current work deals with the analysis of changes in the workplace culture during the COVID-19 pandemic. Our project aims to build a prediction model that can be used to predict the chances of success for an organization in creating a healthy working culture in the post COVID-19 era.</span>
 </div>
 
 ------
