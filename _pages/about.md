@@ -22,11 +22,11 @@ Previously, I graduated from <a href="https://www.iiit.ac.in/">International Ins
 Updates
 ======
 
-<p style="font-size=0.7vw;"><b>[July 2021]:</b> Our work <b>“A Virus Has No Religion”: Analyzing Islamophobia on Twitter During the COVID-19 Outbreak</b> has been accepted at the proceedings of 32nd ACM Conference on Hypertext and Social Media (HT ’21).</p>
+<p style="font-size=x-small;"><b>[July 2021]:</b> Our work <b>“A Virus Has No Religion”: Analyzing Islamophobia on Twitter During the COVID-19 Outbreak</b> has been accepted at the proceedings of 32nd ACM Conference on Hypertext and Social Media (HT ’21).</p>
 
-<p style="font-size=small"><b>[June 2021]:</b> Invited as a speaker at the AI/ML Venture event organised by Girl Up Ahsaas. I'll be talking about getting started with academic research and opportunities in the industry.</p>
+<p style="font-size=x-small"><b>[June 2021]:</b> Invited as a speaker at the AI/ML Venture event organised by Girl Up Ahsaas. I'll be talking about getting started with academic research and opportunities in the industry.</p>
 
-<p style="font-size=10px;"><b>[April 2021]:</b> Our work <b>“Subverting the Jewtocracy”: Online Antisemitism Detection Using Multimodal Deep Learning</b> has been accepted at the proceedings of 13th ACM Web Science Conference (WebSci’21).</p>
+<p style="font-size=x-small;"><b>[April 2021]:</b> Our work <b>“Subverting the Jewtocracy”: Online Antisemitism Detection Using Multimodal Deep Learning</b> has been accepted at the proceedings of 13th ACM Web Science Conference (WebSci’21).</p>
 
 
 Experience
@@ -55,7 +55,7 @@ Experience
 
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/precog_logo.png" alt="Precog Icon" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size=1.15vw;"><b>[2018-2020]</b> Worked as a Research Assistant with <a href="https://precog.iiit.ac.in/">Prof. Ponnurangam Kumaraguru</a> for my masters thesis. My work focused in the area of content moderation and I worked on detection and analysis of hate speech on social media platforms. During this period, I worked on general purpose abuse detection, multimodal Antisemitism detection and large-scale quantitative study analyzing Islamophobia.</span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size=1.15vw;"><b>[2018-2020]</b> Worked as a Research Assistant with <a href="https://precog.iiit.ac.in/">Prof. Ponnurangam Kumaraguru</a> for my masters thesis. My work focused in the area of content moderation. I worked on detection and analysis of hate speech on social media platforms. During this period, I worked on general purpose abuse detection, multimodal Antisemitism detection and large-scale quantitative study analyzing Islamophobia.</span>
 </div>
 
 ------
