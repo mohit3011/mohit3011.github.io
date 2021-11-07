@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p style="font-size=1.15vw;">
-I am currently working as a Software Engineer(AI/ML) in the STCI Search team at Microsoft, Hyderabad (India). I work on applying NLP and Data Science based methods to create new experiences and improve the quality of answers shown for "Tech Queries" on <a href="https://www.bing.com/">Bing.com</a>, ultimately providing a better user experience. I like to work on impactful user facing problems!
+I am currently working as a Software Engineer(AI/ML) in the STCI Search team at Microsoft, Hyderabad (India). I work on applying NLP and Data Science oriented methods to create new experiences and improve the quality of answers shown for "Tech Queries" on <a href="https://www.bing.com/">Bing.com</a>, ultimately providing a better user experience. I like to work on impactful user facing problems!
 </p>
 
 <p style="font-size=1.15vw;">
@@ -16,15 +16,15 @@ Apart from the industry-driven work, I also work on academic research problems. 
 </p>
 
 <p style="font-size=1.15vw;">
-Previously, I graduated from <a href="https://www.iiit.ac.in/">International Institute of Information Technology, Hyderabad</a> with B.Tech (Honours) and M.S in Computer Science and Engineering. I was advised by <a href="https://precog.iiit.ac.in/">Prof. Ponnurangam Kumaraguru</a> and <a href="https://www.iiit.ac.in/people/faculty/m.shrivastava/">Dr. Manish Shrivastava</a> for my masters thesis <b>Towards A More Holistic Approach On Online Abuse and Antisemitism</b>.
+Previously, I graduated from <a href="https://www.iiit.ac.in/">International Institute of Information Technology, Hyderabad</a> with B.Tech (Honours) and M.S in Computer Science and Engineering. I was advised by <a href="https://precog.iiit.ac.in/">Prof. Ponnurangam Kumaraguru</a> and <a href="https://www.iiit.ac.in/people/faculty/m.shrivastava/">Dr. Manish Shrivastava</a> for my masters thesis <i>Towards A More Holistic Approach On Online Abuse and Antisemitism</i>.
 </p>
 
 Updates
 ======
 
-* <p style="font-size=medium;"><b>[July 2021]:</b> Our work <b>“A Virus Has No Religion”: Analyzing Islamophobia on Twitter During the COVID-19 Outbreak</b> has been accepted at the proceedings of 32nd ACM Conference on Hypertext and Social Media (HT ’21).</p>
-* <p style="font-size=medium;"><b>[June 2021]:</b> Invited as a speaker at the AI/ML Venture event organised by Girl Up Ahsaas. I'll be talking about getting started with academic research and opportunities in the industry.</p>
-* <p style="font-size=medium;"><b>[April 2021]:</b> Our work <b>“Subverting the Jewtocracy”: Online Antisemitism Detection Using Multimodal Deep Learning</b> has been accepted at the proceedings of 13th ACM Web Science Conference (WebSci’21).</p>
+* <p style="font-size=0.7vw;"><b>[July 2021]:</b> Our work <b>“A Virus Has No Religion”: Analyzing Islamophobia on Twitter During the COVID-19 Outbreak</b> has been accepted at the proceedings of 32nd ACM Conference on Hypertext and Social Media (HT ’21).</p>
+* <p style="font-size=0.7vw;"><b>[June 2021]:</b> Invited as a speaker at the AI/ML Venture event organised by Girl Up Ahsaas. I'll be talking about getting started with academic research and opportunities in the industry.</p>
+* <p style="font-size=0.7vw;"><b>[April 2021]:</b> Our work <b>“Subverting the Jewtocracy”: Online Antisemitism Detection Using Multimodal Deep Learning</b> has been accepted at the proceedings of 13th ACM Web Science Conference (WebSci’21).</p>
 
 
 Experience
