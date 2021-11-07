@@ -16,7 +16,7 @@ Apart from the industry-driven work, I also work on academic research problems. 
 </p>
 
 <p style="font-size:large;">
-Previously, I graduated from <a href="https://www.iiit.ac.in/">International Institute of Information Technology, Hyderabad</a> with B.Tech (Honours) and M.S in Computer Science and Engineering. I was advised by <a href="https://precog.iiit.ac.in/">Prof. Ponnurangam Kumaraguru</a> and <a href="https://www.iiit.ac.in/people/faculty/m.shrivastava/">Dr. Manish Shrivastava</a> for my masters thesis <i>Towards A More Holistic Approach On Online Abuse and Antisemitism</i>.
+Previously, I graduated from <a href="https://www.iiit.ac.in/">International Institute of Information Technology, Hyderabad</a> with B.Tech (Honours) and M.S in Computer Science and Engineering. I was advised by <a href="https://precog.iiit.ac.in/">Prof. Ponnurangam Kumaraguru</a> and <a href="https://www.iiit.ac.in/people/faculty/m.shrivastava/">Dr. Manish Shrivastava</a> for my masters thesis, <i>Towards A More Holistic Approach On Online Abuse and Antisemitism</i>.
 </p>
 
 ------
@@ -37,7 +37,7 @@ Experience
 
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/ms_logo.png" alt="Microsoft Icon" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[2020-Present]</b> Working as Software Engineer in the Bing Team (STCI) at Microsoft IDC. I work in the developer segment on Bing.com that is responsible for presenting "Coding" related answers to the user queries. In addition to this, I also work in the Question and Answer segment that is used for answering multiple user query intents such as "How to?", trivia related to technology and answers related to various technology oriented products.</span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[2020-Present]</b> Working as Software Engineer in the Bing Team (STCI) at Microsoft IDC. I work in the developer segment on Bing.com that is responsible for presenting coding/development related answers to the user queries. In addition to this, I also work in the Question and Answer segment that is used for answering multiple user query intents such as "How to?" and information related to technology oriented products.</span>
 </div>
 
 ------
