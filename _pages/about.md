@@ -19,6 +19,8 @@ Apart from the industry-driven work, I also work on academic research problems. 
 Previously, I graduated from <a href="https://www.iiit.ac.in/">International Institute of Information Technology, Hyderabad</a> with B.Tech (Honours) and M.S in Computer Science and Engineering. I was advised by <a href="https://precog.iiit.ac.in/">Prof. Ponnurangam Kumaraguru</a> and <a href="https://www.iiit.ac.in/people/faculty/m.shrivastava/">Dr. Manish Shrivastava</a> for my masters thesis <i>Towards A More Holistic Approach On Online Abuse and Antisemitism</i>.
 </p>
 
+------
+
 Updates
 ======
 
@@ -26,8 +28,9 @@ Updates
 
 <p style="font-size=x-small"><b>[June 2021]:</b> Invited as a speaker at the AI/ML Venture event organised by Girl Up Ahsaas. I'll be talking about getting started with academic research and opportunities in the industry.</p>
 
-<p style="font-size=x-small;"><b>[April 2021]:</b> Our work <b>“Subverting the Jewtocracy”: Online Antisemitism Detection Using Multimodal Deep Learning</b> has been accepted at the proceedings of 13th ACM Web Science Conference (WebSci’21).</p>
+<p style="font-size=xx-small;"><b>[April 2021]:</b> Our work <b>“Subverting the Jewtocracy”: Online Antisemitism Detection Using Multimodal Deep Learning</b> has been accepted at the proceedings of 13th ACM Web Science Conference (WebSci’21).</p>
 
+------
 
 Experience
 ======
