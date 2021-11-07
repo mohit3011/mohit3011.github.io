@@ -32,7 +32,7 @@ Experience
 
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/ms_logo.png" alt="Microsoft Icon" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size=1.15vw;"><b>[2020-Present]</b> Working as Software Engineer in the Bing Team (STCI) at Microsoft IDC. I work in the developer segment on Bing.com that is responsible for presenting "Coding" related answers to the user queries. In addition to this, I also work on the Question and Answer segment that is used for answering multiple user query intents such as "How to?", trivia related to technology and answers related to various technology oriented products.</span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size=1.15vw;"><b>[2020-Present]</b> Working as Software Engineer in the Bing Team (STCI) at Microsoft IDC. I work in the developer segment on Bing.com that is responsible for presenting "Coding" related answers to the user queries. In addition to this, I also work in the Question and Answer segment that is used for answering multiple user query intents such as "How to?", trivia related to technology and answers related to various technology oriented products.</span>
 </div>
 
 ------
@@ -46,7 +46,7 @@ Experience
 
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/smu_logo.jpeg" alt="SMU Icon" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size=1.15vw;"><b>[2021-Present]</b> Working as an external collaborator with <a href="https://jisun.me/">Dr. Jisun An</a> from <a href="https://www.smu.edu.sg/">Singapore Management University</a>. The project aims at analyzing the rising problem of Islamophobia in the Indian Sub-continent. Specifically we are performing a user level study to analyse the patterns in spread of online hate against the Muslim community.</span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size=1.15vw;"><b>[2021-Present]</b> Working as an external collaborator with <a href="https://jisun.me/">Dr. Jisun An</a> from <a href="https://www.smu.edu.sg/">Singapore Management University</a>. The project aims at analyzing the rising problem of Islamophobia in the Indian Sub-continent. Specifically, we are performing a user level study to analyse the patterns in spread of online hate against the Muslim community.</span>
 </div>
 
 ------
