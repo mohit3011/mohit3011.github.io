@@ -12,7 +12,7 @@ I am currently working as a Software Engineer(AI/ML) in the STCI Search team at 
 </p>
 
 <p style="font-size:large;">
-Apart from the industry-driven work, I also work on academic research problems. I am mainly interested in the area of intersection between  <a href="https://en.wikipedia.org/wiki/Natural_language_processing">Natural Language Processing (NLP)</a> and <a href="https://en.wikipedia.org/wiki/Computational_social_science">Computational Social Science (CSS)</a>. Presently, I am working as a Research Associate at Geogia Tech with <a href="http://www.munmund.net/">Prof. Munmun De Choudhury</a> and at Precog@IIITH with <a href="https://precog.iiitd.edu.in/ ">Prof. Ponnurangam Kumaraguru</a>.
+Apart from the industry-driven work, I also work on academic research problems. I am mainly interested in the area of intersection between  <a href="https://en.wikipedia.org/wiki/Natural_language_processing">Natural Language Processing (NLP)</a> and <a href="https://en.wikipedia.org/wiki/Computational_social_science">Computational Social Science (CSS)</a>. Presently, I am working as a Research Associate at Georgia Tech with <a href="http://www.munmund.net/">Prof. Munmun De Choudhury</a> and at Precog@IIITH with <a href="https://precog.iiitd.edu.in/ ">Prof. Ponnurangam Kumaraguru</a>.
 </p>
 
 <p style="font-size:large;">
