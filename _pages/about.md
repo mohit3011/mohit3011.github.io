@@ -8,21 +8,20 @@ redirect_from:
   - /about.html
 ---
 <p style="font-size:large;">
-I am currently working as a Software Engineer(AI/ML) in the STCI Search team at Microsoft, Hyderabad (India). I work on applying NLP and Data Science oriented methods to create new experiences and improve the quality of answers shown for "Tech Queries" on <a href="https://www.bing.com/">Bing.com</a>, ultimately providing a better user experience. I like to work on impactful user facing problems!
+I am a first year CS PhD student in the School of Interactive Computing at <a href="https://www.gatech.edu/">Georgia Tech</a>, where I'm advised by Prof. <a href="https://cocoxu.github.io/">Wei Xu</a>. My research interests lie in the intersection of <a href="https://en.wikipedia.org/wiki/Natural_language_processing">Natural Language Processing (NLP)</a> and <a href="https://en.wikipedia.org/wiki/Social_computing">Social Computing</a>.
 </p>
 
-<p style="font-size:large;">
-Apart from the industry-driven work, I also work on academic research problems. I am mainly interested in the area of intersection between  <a href="https://en.wikipedia.org/wiki/Natural_language_processing">Natural Language Processing (NLP)</a> and <a href="https://en.wikipedia.org/wiki/Social_computing">Social Computing</a>. Presently, I am working as a Research Associate at Georgia Tech with <a href="http://www.munmund.net/">Prof. Munmun De Choudhury</a> and at Precog@IIITH with <a href="https://precog.iiitd.edu.in/ ">Prof. Ponnurangam Kumaraguru</a>.
-</p>
 
 <p style="font-size:large;">
-Previously, I graduated from <a href="https://www.iiit.ac.in/">International Institute of Information Technology, Hyderabad</a> with B.Tech (Honours) and M.S in Computer Science and Engineering. I was advised by <a href="https://precog.iiit.ac.in/">Prof. Ponnurangam Kumaraguru</a> and <a href="https://www.iiit.ac.in/people/faculty/m.shrivastava/">Dr. Manish Shrivastava</a> for my masters thesis, <i>Towards A More Holistic Approach On Online Abuse and Antisemitism</i>.
+Previously, I worked as a Software Engineer at Microsoft where I got an opportunity to work on NLP and Data Science related problems on Automatic Speech Recognition Systems and Bing. I graduated from <a href="https://www.iiit.ac.in/">International Institute of Information Technology, Hyderabad</a> with B.Tech (Honours) and M.S in Computer Science and Engineering. I was advised by <a href="https://precog.iiit.ac.in/">Prof. Ponnurangam Kumaraguru</a> and <a href="https://www.iiit.ac.in/people/faculty/m.shrivastava/">Dr. Manish Shrivastava</a> for my masters thesis, <i>Towards A More Holistic Approach On Online Abuse and Antisemitism</i>.
 </p>
 
 ------
 
 Updates
 ======
+
+* <p style="font-size:medium;"><b>[August 2022]:</b> Joined Georgia Tech as a CS PhD student :) Go Jackets!</p>
 
 * <p style="font-size:medium;"><b>[July 2021]:</b> Our work <b>“A Virus Has No Religion”: Analyzing Islamophobia on Twitter During the COVID-19 Outbreak</b> has been accepted at the proceedings of 32nd ACM Conference on Hypertext and Social Media (HT ’21).</p>
 
@@ -36,22 +35,29 @@ Experience
 ======
 
 <div class="row"> 
+  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/gt_logo.png" alt="Georgia Tech Icon" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[2022-Present]</b> First year CS PhD student working with Prof. <a href="https://cocoxu.github.io/">Wei Xu</a> in the School of Interactive Computing at <a href="https://www.gatech.edu/">Georgia Tech</a></span>
+</div>
+
+------
+
+<div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/ms_logo.png" alt="Microsoft Icon" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[2020-Present]</b> Working as Software Engineer in the Bing Team (STCI) at Microsoft IDC. I work in the developer segment on Bing.com that is responsible for presenting coding/development related answers to the user queries. In addition to this, I also work in the Question and Answer segment that is used for answering multiple user query intents such as "How to?" and information related to technology oriented products.</span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[2020-2022]</b> Worked as a Software Engineer at Microsoft IDC. Worked on developing language models for Automatic Speech Recognition systems. I also worked in the developer segment on Bing.com that is responsible for presenting coding/development related answers to the user queries.</span>
 </div>
 
 ------
 
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/gt_logo.png" alt="Georgia Tech Icon" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[2021-Present]</b> Collaborating as an external Research Associate at <a href="https://www.gatech.edu/">Georgia Institute of Technology</a> with <a href="http://www.munmund.net/">Prof. Munmun De Choudhury</a>. My current work deals with the analysis of changes in the workplace culture during the COVID-19 pandemic. Our project aims to build a prediction model that can be used to predict the chances of success for an organization in creating a healthy working culture in the post COVID-19 era.</span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[2021-2022]</b> Collaborated as an external Research Associate at <a href="https://www.gatech.edu/">Georgia Institute of Technology</a> with <a href="http://www.munmund.net/">Prof. Munmun De Choudhury</a>. My work dealt with the analysis of changes in the workplace culture during the COVID-19 pandemic. Our project aimed to build a prediction model that can be used to predict the chances of success for an organization in creating a healthy working culture in the post COVID-19 era.</span>
 </div>
 
 ------
 
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/smu_logo.jpeg" alt="SMU Icon" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[2021-Present]</b> Working as an external collaborator with <a href="https://jisun.me/">Dr. Jisun An</a> from <a href="https://www.smu.edu.sg/">Singapore Management University</a>. The project aims at analyzing the rising problem of Islamophobia in the Indian Sub-continent. Specifically, we are performing a user level study to analyse the patterns in spread of online hate against the Muslim community.</span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[2021-2022]</b> Worked as an external collaborator with <a href="https://jisun.me/">Dr. Jisun An</a> from <a href="https://www.smu.edu.sg/">Singapore Management University</a>. The project aimed at analyzing the rising problem of Islamophobia in the Indian Sub-continent. Specifically, we are performed a user level study to analyse the patterns in spread of online hate against the Muslim community.</span>
 </div>
 
 ------
