@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p style="font-size:large;">
-I am a first year CS PhD student in the School of Interactive Computing at <a href="https://www.gatech.edu/">Georgia Tech</a>, where I'm advised by Prof. <a href="https://cocoxu.github.io/">Wei Xu</a>. My research interests lie in the intersection of <a href="https://en.wikipedia.org/wiki/Natural_language_processing">Natural Language Processing (NLP)</a> and <a href="https://en.wikipedia.org/wiki/Social_computing">Social Computing</a>.
+I am a first year CS PhD student in the School of Interactive Computing at <a href="https://www.gatech.edu/">Georgia Tech</a>, where I'm advised by Prof. <a href="http://www.munmund.net/">Munmun De Choudhury</a>. My research interests lie in the intersection of <a href="https://en.wikipedia.org/wiki/Natural_language_processing">Natural Language Processing (NLP)</a> and <a href="https://en.wikipedia.org/wiki/Social_computing">Social Computing</a>.
 </p>
 
 
@@ -36,7 +36,7 @@ Experience
 
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/gt_logo.png" alt="Georgia Tech Icon" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[2022-Present]</b> First year CS PhD student working with Prof. <a href="https://cocoxu.github.io/">Wei Xu</a> in the School of Interactive Computing at <a href="https://www.gatech.edu/">Georgia Tech</a></span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[2022-Present]</b> First year CS PhD student working with Prof. <a href="http://www.munmund.net/">Munmun De Choudhury</a> in the School of Interactive Computing at <a href="https://www.gatech.edu/">Georgia Tech</a></span>
 </div>
 
 ------
