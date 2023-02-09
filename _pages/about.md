@@ -21,6 +21,8 @@ Previously, I worked as a Software Engineer at Microsoft where I got an opportun
 Updates
 ======
 
+* <p style="font-size:medium;"><b>[January 2023]:</b> Our work <b>What Makes Some Workplaces More Favorable to Remote Work? Unpacking Employee Experiences During COVID-19 Via Glassdoor</b> has been accepted at the proceedings of 15th ACM Web Science Conference (WebSci’23). Pre-print coming soon :)</p>
+
 * <p style="font-size:medium;"><b>[August 2022]:</b> Joined Georgia Tech as a CS PhD student :) Go Jackets!</p>
 
 * <p style="font-size:medium;"><b>[July 2021]:</b> Our work <b>“A Virus Has No Religion”: Analyzing Islamophobia on Twitter During the COVID-19 Outbreak</b> has been accepted at the proceedings of 32nd ACM Conference on Hypertext and Social Media (HT ’21).</p>
