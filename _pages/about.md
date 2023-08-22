@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p style="font-size:large;">
-I am a first year CS PhD student in the School of Interactive Computing at <a href="https://www.gatech.edu/">Georgia Tech</a>, where I'm advised by Prof. <a href="http://www.munmund.net/">Munmun De Choudhury</a>. My research interests lie in the intersection of <a href="https://en.wikipedia.org/wiki/Natural_language_processing">Natural Language Processing (NLP)</a> and <a href="https://en.wikipedia.org/wiki/Social_computing">Social Computing</a>.
+I am a second-year CS PhD student in the School of Interactive Computing at <a href="https://www.gatech.edu/">Georgia Tech</a>, where I'm advised by Prof. <a href="http://www.munmund.net/">Munmun De Choudhury</a>. My research interests lie in the intersection of <a href="https://en.wikipedia.org/wiki/Natural_language_processing">Natural Language Processing (NLP)</a> and <a href="https://en.wikipedia.org/wiki/Social_computing">Social Computing</a>.
 </p>
 
 
