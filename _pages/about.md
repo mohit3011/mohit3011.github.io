@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 <p style="font-size:large;">
-I am a second-year CS PhD student in the School of Interactive Computing at <a href="https://www.gatech.edu/">Georgia Tech</a>, where I'm advised by Prof. <a href="http://www.munmund.net/">Munmun De Choudhury</a>. My research interests lie in the intersection of <a href="https://en.wikipedia.org/wiki/Natural_language_processing">Natural Language Processing (NLP)</a> and <a href="https://en.wikipedia.org/wiki/Social_computing">Social Computing</a>.
+I am a second-year CS PhD student in the School of Interactive Computing at <a href="https://www.gatech.edu/">Georgia Tech</a>, where I'm advised by Prof. <a href="http://www.munmund.net/">Munmun De Choudhury</a>. My research interests lie in the intersection of <b>Natural Language Processing (NLP)</b> and <b>Social Computing</b>. I use computational methods from NLP and theoretical frameworks from Social Sciences to study false/incomplete
+information pertaining to healthcare on social media platforms and Large Language Models (LLMs). At Georgia Tech, I also collaborate closely with Prof. <a href="https://faculty.cc.gatech.edu/~srijan/">Srijan Kumar</a>.
 </p>
 
 
@@ -21,16 +22,17 @@ Previously, I worked as a Software Engineer at Microsoft where I got an opportun
 Updates
 ======
 
-* <p style="font-size:medium;"><b>[January 2023]:</b> Our work <b>What Makes Some Workplaces More Favorable to Remote Work? Unpacking Employee Experiences During COVID-19 Via Glassdoor</b> has been accepted at the proceedings of 15th ACM Web Science Conference (WebSci’23). Pre-print coming soon :)</p>
+* <p style="font-size:medium;"><b>[October 2023]:</b> Our work <b>Better to Ask in English: Cross-Lingual Evaluation of Large Language Models for Healthcare Queries</b> available as pre-print now! <a href="https://arxiv.org/abs/2310.13132">ArXiv link</a></p>
+
+* <p style="font-size:medium;"><b>[October 2023]:</b> Our work <b>Understanding the Humans Behind Online Misinformation: An Observational Study Through the Lens of the COVID-19 Pandemic</b> available as pre-print now! <a href="https://arxiv.org/abs/2310.08483">ArXiv Link</a></p>
+
+* <p style="font-size:medium;"><b>[January 2023]:</b> Our work <b>What Makes Some Workplaces More Favorable to Remote Work? Unpacking Employee Experiences During COVID-19 Via Glassdoor</b> has been accepted at the proceedings of 15th ACM Web Science Conference (WebSci’23). <a href="https://dl.acm.org/doi/10.1145/3578503.3583602">Paper Link</a></p>
 
 * <p style="font-size:medium;"><b>[August 2022]:</b> Joined Georgia Tech as a CS PhD student :) Go Jackets!</p>
 
-* <p style="font-size:medium;"><b>[July 2021]:</b> Our work <b>“A Virus Has No Religion”: Analyzing Islamophobia on Twitter During the COVID-19 Outbreak</b> has been accepted at the proceedings of 32nd ACM Conference on Hypertext and Social Media (HT ’21).</p>
+* <p style="font-size:medium;"><b>[July 2021]:</b> Our work <b>“A Virus Has No Religion”: Analyzing Islamophobia on Twitter During the COVID-19 Outbreak</b> has been accepted at the proceedings of 32nd ACM Conference on Hypertext and Social Media (HT ’21). <a href="https://dl.acm.org/doi/10.1145/3465336.3475111">Paper Link</a></p>
 
 * <p style="font-size:medium;"><b>[June 2021]:</b> Invited as a speaker at the AI/ML Venture event organised by Girl Up Ahsaas. I'll be talking about getting started with academic research and opportunities in the industry.</p>
-
-* <p style="font-size:medium;"><b>[April 2021]:</b> Our work <b>“Subverting the Jewtocracy”: Online Antisemitism Detection Using Multimodal Deep Learning</b> has been accepted at the proceedings of 13th ACM Web Science Conference (WebSci’21).</p>
-
 ------
 
 Experience
