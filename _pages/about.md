@@ -22,7 +22,7 @@ Previously, I worked as a Software Engineer at Microsoft where I got an opportun
 Updates
 ======
 
-* <p style="font-size:medium;"><b>[October 2023]:</b> Our work <b>Better to Ask in English: Cross-Lingual Evaluation of Large Language Models for Healthcare Queries</b> available as pre-print now! <a href="https://arxiv.org/abs/2310.13132">ArXiv link</a></p>
+* <p style="font-size:medium;"><b>[October 2023]:</b> Our work <b>Better to Ask in English: Cross-Lingual Evaluation of Large Language Models for Healthcare Queries</b> available as pre-print now! <a href="https://arxiv.org/abs/2310.13132">ArXiv Link</a></p>
 
 * <p style="font-size:medium;"><b>[October 2023]:</b> Our work <b>Understanding the Humans Behind Online Misinformation: An Observational Study Through the Lens of the COVID-19 Pandemic</b> available as pre-print now! <a href="https://arxiv.org/abs/2310.08483">ArXiv Link</a></p>
 
