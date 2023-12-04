@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 <p style="font-size:large;">
-I am a second-year CS PhD student in the School of Interactive Computing at <a href="https://www.gatech.edu/">Georgia Tech</a>, where I'm advised by Prof. <a href="http://www.munmund.net/">Munmun De Choudhury</a>. My research interests lie in the intersection of <b>Natural Language Processing (NLP)</b> and <b>Social Computing</b>. I use computational methods from NLP and theoretical frameworks from Social Sciences to study false/incomplete
-information pertaining to healthcare on social media platforms and Large Language Models (LLMs). At Georgia Tech, I also collaborate closely with Prof. <a href="https://faculty.cc.gatech.edu/~srijan/">Srijan Kumar</a>.
+I am a second-year CS PhD student in the School of Interactive Computing at <a href="https://www.gatech.edu/">Georgia Tech</a>, where I'm advised by Prof. <a href="http://www.munmund.net/">Munmun De Choudhury</a>. My research interests lie in the intersection of <b>Natural Language Processing (NLP)</b> and <b>Social Computing</b>. I adopt a human-centered approach to analyze the impact of online platforms and AI technologies (such as LLMs) on people using them. Combining computational tools from NLP and theories from social science, my research focuses on analyzing and understanding the quality of information consumed by people pertaining to critical domains such as healthcare, specifically addressing problems around misinformation, disinformation, and incomplete/partial information.
+
+For a comprehensive understanding, my work aims to uncover insights related to human experiences and highlight potential harms, such as inequity and bias, stemming from the use of online platforms and both existing and emerging AI technologies. The overarching goal of my research is to empower individuals and communities by contributing to the design of fairer and more robust technologies. At Georgia Tech, I also collaborate closely with Prof. <a href="https://faculty.cc.gatech.edu/~srijan/">Srijan Kumar</a>.
 </p>
 
 
