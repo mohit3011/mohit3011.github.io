@@ -12,7 +12,7 @@ I am a second-year CS PhD student in the School of Interactive Computing at <a h
 </p>
 
 <p style="font-size:large;">
-For a comprehensive understanding, my work aims to uncover insights related to human experiences and highlight potential harms, such as inequity and bias, stemming from the use of online platforms and both existing and emerging AI technologies. The overarching goal of my research is to empower individuals and communities by contributing to the design of fairer and more robust technologies. At Georgia Tech, I also collaborate closely with Prof. <a href="https://faculty.cc.gatech.edu/~srijan/">Srijan Kumar</a>.
+For a comprehensive understanding, my work aims to uncover insights related to human experiences and highlight potential harms, such as inequity and bias, stemming from the use of online platforms and both existing and emerging AI technologies. The overarching goal of my research is to empower individuals and communities by contributing to the design of fairer and more robust technologies.
 </p>
 
 
