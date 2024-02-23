@@ -25,6 +25,8 @@ Previously, I worked as a Software Engineer at Microsoft where I got an opportun
 Updates
 ======
 
+<div style="overflow-y: scroll; height:400px;">
+
 * <p style="font-size:medium;"><b>[January 2024]:</b> Our work <b>Better to Ask in English: Cross-Lingual Evaluation of Large Language Models for Healthcare Queries</b> has been accepted to the <a href="https://www2024.thewebconf.org/">Web Conference 2024</a> 🥳. Pre-print <a href="https://arxiv.org/abs/2310.13132">Link</a></p>
 
 * <p style="font-size:medium;"><b>[October 2023]:</b> Our work <b>Understanding the Humans Behind Online Misinformation: An Observational Study Through the Lens of the COVID-19 Pandemic</b> available as pre-print now! <a href="https://arxiv.org/abs/2310.08483">ArXiv Link</a></p>
@@ -36,6 +38,8 @@ Updates
 * <p style="font-size:medium;"><b>[July 2021]:</b> Our work <b>“A Virus Has No Religion”: Analyzing Islamophobia on Twitter During the COVID-19 Outbreak</b> has been accepted at the proceedings of 32nd ACM Conference on Hypertext and Social Media (HT ’21). <a href="https://dl.acm.org/doi/10.1145/3465336.3475111">Paper Link</a></p>
 
 * <p style="font-size:medium;"><b>[June 2021]:</b> Invited as a speaker at the AI/ML Venture event organised by Girl Up Ahsaas. I'll be talking about getting started with academic research and opportunities in the industry.</p>
+</div>
+
 ------
 
 Experience
