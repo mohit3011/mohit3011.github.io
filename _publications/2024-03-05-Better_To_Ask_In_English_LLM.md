@@ -7,6 +7,6 @@ date: '05-03-2024'
 venue: 'ACM Web Conference (WWW’24)'
 paperurl: '[https://doi.org/10.1145/3578503.3583602](https://arxiv.org/abs/2310.13132)'
 paperfile: http://mohit3011.github.io/files/better_to_ask_in_english_llm.pdf
-authors: 'Yiqiao Jin*, <b>Mohit Chandra</b>*, Gaurav Verma, Yibo Hu, Munmun De Choudhury, Srijan Kumar'
+authors: 'Yiqiao Jin*, <b>Mohit Chandra</b>*, Gaurav Verma, Yibo Hu, Munmun De Choudhury, Srijan Kumar<br>(* Authors contributed equally to this research)'
 citation: 'Jin, Y., Chandra, M., Verma, G., Hu, Y., Choudhury, M. D., & Kumar, S. (2023). Better to Ask in English: Cross-Lingual Evaluation of Large Language Models for Healthcare Queries. arXiv [Cs.CL]. Retrieved from http://arxiv.org/abs/2310.13132'
 ---
