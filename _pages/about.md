@@ -56,7 +56,7 @@ Experience
 ------
 
 <div class="row"> 
-  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/msr_logo.png" alt="Microsoft Research Icon" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
+  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/msr_logo.jpg" alt="Microsoft Research Icon" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
   <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[2024-Present]</b> Research intern in the Human-Centered AI (HCAIX) group at Microsoft Research working with Dr. <a href="https://www.jinasuh.com/">Jina Suh</a>. Currently exploring the intersection of AI and mental health.</span>
 </div>
 
