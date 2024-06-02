@@ -27,6 +27,8 @@ Updates
 
 <div style="overflow-y: scroll; height:400px;">
 <ul>
+<li><p style="font-size:medium;"><b>[May 2024]:</b> Started my research internship in the Human-Centered AI (HCAIX) group at Microsoft Research😄.</p></li>
+  
 <li><p style="font-size:medium;"><b>[January 2024]:</b> Our work <b>Better to Ask in English: Cross-Lingual Evaluation of Large Language Models for Healthcare Queries</b> has been accepted to the <a href="https://www2024.thewebconf.org/">Web Conference 2024</a> 🥳. Pre-print <a href="https://arxiv.org/abs/2310.13132">Link</a></p></li>
 
 <li><p style="font-size:medium;"><b>[October 2023]:</b> Our work <b>Understanding the Humans Behind Online Misinformation: An Observational Study Through the Lens of the COVID-19 Pandemic</b> available as pre-print now! <a href="https://arxiv.org/abs/2310.08483">ArXiv Link</a></p></li>
@@ -49,6 +51,13 @@ Experience
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/gt_logo.png" alt="Georgia Tech Icon" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
   <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[2022-Present]</b> Second year CS PhD student working with Prof. <a href="http://www.munmund.net/">Munmun De Choudhury</a> in the School of Interactive Computing at <a href="https://www.gatech.edu/">Georgia Tech</a></span>
+</div>
+
+------
+
+<div class="row"> 
+  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/msr_logo.png" alt="Microsoft Research Icon" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[2024-Present]</b> Research intern in the Human-Centered AI (HCAIX) group at Microsoft Research working with Dr. <a href="https://www.jinasuh.com/">Jina Suh</a>. Currently exploring the intersection of AI and mental health.</span>
 </div>
 
 ------
