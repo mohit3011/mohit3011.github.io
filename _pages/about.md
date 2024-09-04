@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p style="font-size:large;">
-I am a third-year CS PhD student in the School of Interactive Computing at <a href="https://www.gatech.edu/">Georgia Tech</a>, where I'm advised by Prof. <a href="http://www.munmund.net/">Munmun De Choudhury</a>. Using computational techinques from <b>Natural Language Processing (NLP)</b> and theories from <b>Socilology and Psychology</b>, my research takes a human-centered approach to analyze how consumption of low-quality information on online platforms and Generative AI technologies impacts human behavior and perpetuates harms, including bias and inequity.
+I am a third-year CS PhD student in the School of Interactive Computing at <a href="https://www.gatech.edu/">Georgia Tech</a>, where I'm advised by Prof. <a href="http://www.munmund.net/">Munmun De Choudhury</a>. Using computational techinques from Natural Language Processing (NLP) and theories from Sociology and Psychology, <b>my research takes a human-centered approach to analyze how consumption of low-quality information on online platforms and Generative AI technologies impacts human behavior and perpetuates harms, including bias and inequity</b>.
 </p>
 
 <p style="font-size:large;">
