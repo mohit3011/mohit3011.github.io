@@ -57,8 +57,10 @@ Experience
 
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/msr_logo.jpg" alt="Microsoft Research Icon" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[2024-Present]</b> Research intern in the Human-Centered AI (HCAIX) group at Microsoft Research working with Dr. <a href="https://www.jinasuh.com/">Jina Suh</a>. Currently exploring the intersection of AI and mental health.</span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[2024-2024]</b> Interned within the Human-Centered AI Experience (HCAIX) group, where I collaborated with Dr. <a href="https://www.jinasuh.com/">Jina Suh</a> and Dr. <a href="https://www.microsoft.com/en-us/research/people/javierh/">Javier Hernandez</a>. My work focused on investigating the psychological implications of interacting with AI conversational agents. Currently exploring the intersection of AI and mental health.</span>
 </div>
+
+interned at Microsoft Research within the Human-Centered AI Experience (HCAIX) group, where I collaborated with Dr. Jina Suh and Dr. Javier Hernandez. Our work focused on investigating the psychological implications of interacting with AI conversational agents
 
 ------
 
