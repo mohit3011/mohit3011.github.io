@@ -26,7 +26,7 @@ Previously, I worked as a Software Engineer at Microsoft where I got an opportun
 Updates
 ======
 
-<div style="overflow-y: scroll; height:350 px;">
+<div style="overflow-y: scroll; height:350px;">
 <ul>
 <li><p style="font-size:medium;"><b>[October 2024]:</b> Our work <b>Lived Experience Not Found: LLMs Struggle to Align with Experts on
 Addressing Adverse Drug Reactions from Psychiatric Medication Use</b> available as pre-print now! <a href="https://arxiv.org/pdf/2410.19155">ArXiv Link</a></p></li>
