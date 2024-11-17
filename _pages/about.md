@@ -30,6 +30,9 @@ Updates
 <ul>
 <li><p style="font-size:medium;"><b>[October 2024]:</b> Our work <b>Lived Experience Not Found: LLMs Struggle to Align with Experts on
 Addressing Adverse Drug Reactions from Psychiatric Medication Use</b> available as pre-print now! <a href="https://arxiv.org/pdf/2410.19155">ArXiv Link</a></p></li>
+
+<li><p style="font-size:medium;"><b>[September 2024]:</b> Our work <b>MEDHALU: Hallucinations in Responses to Healthcare Queries by
+Large Language Models</b> available as pre-print now! <a href="https://arxiv.org/pdf/2409.19492">ArXiv Link</a></p></li>
   
 <li><p style="font-size:medium;"><b>[May 2024]:</b> Started my research internship in the Human-Centered AI (HCAIX) group at Microsoft Research😄.</p></li>
 
