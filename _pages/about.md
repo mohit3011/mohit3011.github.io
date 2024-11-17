@@ -31,7 +31,7 @@ Updates
 <li><p style="font-size:medium;"><b>[October 2024]:</b> Our work <b>Lived Experience Not Found: LLMs Struggle to Align with Experts on
 Addressing Adverse Drug Reactions from Psychiatric Medication Use</b> available as pre-print now! <a href="https://arxiv.org/pdf/2410.19155">ArXiv Link</a></p></li>
 
-<li><p style="font-size:medium;"><b>[October 2024]:</b> Our work <b>ReadMe++: Benchmarking Multilingual Language Models for Multi-Domain Readability Assessment has been accepted to <a href="https://2024.emnlp.org/">EMNLP 2024</a>.🥳 Paper <a href="https://aclanthology.org/2024.emnlp-main.682.pdf">Link</a></p></li>
+<li><p style="font-size:medium;"><b>[October 2024]:</b> Our work <b>ReadMe++: Benchmarking Multilingual Language Models for Multi-Domain Readability Assessment</b> has been accepted to <a href="https://2024.emnlp.org/">EMNLP 2024</a>.🥳 Paper <a href="https://aclanthology.org/2024.emnlp-main.682.pdf">Link</a></p></li>
 
 <li><p style="font-size:medium;"><b>[September 2024]:</b> Our work <b>MEDHALU: Hallucinations in Responses to Healthcare Queries by
 Large Language Models</b> available as pre-print now! <a href="https://arxiv.org/pdf/2409.19492">ArXiv Link</a></p></li>
