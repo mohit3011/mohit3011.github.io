@@ -26,19 +26,21 @@ Previously, I worked as a Software Engineer at Microsoft where I got an opportun
 Updates
 ======
 
-<div style="overflow-y: scroll; height:400px;">
+<div style="overflow-y: scroll; height:350px;">
 <ul>
 <li><p style="font-size:medium;"><b>[October 2024]:</b> Our work <b>Lived Experience Not Found: LLMs Struggle to Align with Experts on
 Addressing Adverse Drug Reactions from Psychiatric Medication Use</b> available as pre-print now! <a href="https://arxiv.org/pdf/2410.19155">ArXiv Link</a></p></li>
 
+<li><p style="font-size:medium;"><b>[October 2024]:</b> Our work <b>ReadMe++: Benchmarking Multilingual Language Models for Multi-Domain Readability Assessment has been accepted to <a href="https://2024.emnlp.org/">EMNLP 2024</a>.🥳 Paper <a href="https://aclanthology.org/2024.emnlp-main.682.pdf">Link</a></p></li>
+
 <li><p style="font-size:medium;"><b>[September 2024]:</b> Our work <b>MEDHALU: Hallucinations in Responses to Healthcare Queries by
 Large Language Models</b> available as pre-print now! <a href="https://arxiv.org/pdf/2409.19492">ArXiv Link</a></p></li>
   
-<li><p style="font-size:medium;"><b>[May 2024]:</b> Started my research internship in the Human-Centered AI (HCAIX) group at Microsoft Research😄.</p></li>
+<li><p style="font-size:medium;"><b>[May 2024]:</b> Started my research internship in the Human-Centered AI (HCAIX) group at Microsoft Research. 😄/p></li>
 
 <li><p style="font-size:medium;"><b>[April 2024]:</b> Passed my Ph.D. Qualifiers at Georgia Tech. 📚🥳 </p></li>
   
-<li><p style="font-size:medium;"><b>[January 2024]:</b> Our work <b>Better to Ask in English: Cross-Lingual Evaluation of Large Language Models for Healthcare Queries</b> has been accepted to the <a href="https://www2024.thewebconf.org/">Web Conference 2024</a> 🥳. Pre-print <a href="https://arxiv.org/abs/2310.13132">Link</a></p></li>
+<li><p style="font-size:medium;"><b>[January 2024]:</b> Our work <b>Better to Ask in English: Cross-Lingual Evaluation of Large Language Models for Healthcare Queries</b> has been accepted to the <a href="https://www2024.thewebconf.org/">Web Conference 2024</a>.🥳 Paper <a href="https://dl.acm.org/doi/pdf/10.1145/3589334.3645643">Link</a></p></li>
 
 <li><p style="font-size:medium;"><b>[October 2023]:</b> Our work <b>Understanding the Humans Behind Online Misinformation: An Observational Study Through the Lens of the COVID-19 Pandemic</b> available as pre-print now! <a href="https://arxiv.org/abs/2310.08483">ArXiv Link</a></p></li>
 
