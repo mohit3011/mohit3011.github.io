@@ -28,6 +28,7 @@ Updates
 
 <div style="overflow-y: scroll; height:400px;">
 <ul>
+  
 <li><p style="font-size:medium;"><b>[October 2024]:</b> Our work <b>Lived Experience Not Found: LLMs Struggle to Align with Experts on
 Addressing Adverse Drug Reactions from Psychiatric Medication Use</b> available as pre-print now! <a href="https://arxiv.org/pdf/2410.19155">ArXiv Link</a></p></li>
 
@@ -51,6 +52,7 @@ Large Language Models</b> available as pre-print now! <a href="https://arxiv.org
 <li><p style="font-size:medium;"><b>[July 2021]:</b> Our work <b>“A Virus Has No Religion”: Analyzing Islamophobia on Twitter During the COVID-19 Outbreak</b> has been accepted at the proceedings of 32nd ACM Conference on Hypertext and Social Media (HT ’21). <a href="https://dl.acm.org/doi/10.1145/3465336.3475111">Paper Link</a></p></li>
 
 <li><p style="font-size:medium;"><b>[June 2021]:</b> Invited as a speaker at the AI/ML Venture event organised by Girl Up Ahsaas. I'll be talking about getting started with academic research and opportunities in the industry.</p></li>
+
 </ul>
 </div>
 
