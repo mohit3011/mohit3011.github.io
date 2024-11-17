@@ -28,7 +28,12 @@ Updates
 
 <div style="overflow-y: scroll; height:400px;">
 <ul>
+<li><p style="font-size:medium;"><b>[October 2024]:</b> Our work <b>Lived Experience Not Found: LLMs Struggle to Align with Experts on
+Addressing Adverse Drug Reactions from Psychiatric Medication Use</b> available as pre-print now! <a href="https://arxiv.org/pdf/2410.19155">ArXiv Link</a></p></li>
+  
 <li><p style="font-size:medium;"><b>[May 2024]:</b> Started my research internship in the Human-Centered AI (HCAIX) group at Microsoft Research😄.</p></li>
+
+<li><p style="font-size:medium;"><b>[April 2024]:</b>Passed my Ph.D. Qualifiers at Georgia Tech. 📚🥳 <p></li>
   
 <li><p style="font-size:medium;"><b>[January 2024]:</b> Our work <b>Better to Ask in English: Cross-Lingual Evaluation of Large Language Models for Healthcare Queries</b> has been accepted to the <a href="https://www2024.thewebconf.org/">Web Conference 2024</a> 🥳. Pre-print <a href="https://arxiv.org/abs/2310.13132">Link</a></p></li>
 
