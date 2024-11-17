@@ -59,7 +59,7 @@ Experience
 
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/gt_logo.png" alt="Georgia Tech Icon" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[2022-Present]</b> Second year CS PhD student working with Prof. <a href="http://www.munmund.net/">Munmun De Choudhury</a> in the School of Interactive Computing at <a href="https://www.gatech.edu/">Georgia Tech</a></span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[2022-Present]</b> Third year CS PhD student working with Prof. <a href="http://www.munmund.net/">Munmun De Choudhury</a> in the School of Interactive Computing at <a href="https://www.gatech.edu/">Georgia Tech</a></span>
 </div>
 
 ------
