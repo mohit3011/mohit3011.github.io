@@ -37,9 +37,9 @@ Addressing Adverse Drug Reactions from Psychiatric Medication Use</b> available 
 <li><p style="font-size:medium;"><b>[September 2024]:</b> Our work <b>MEDHALU: Hallucinations in Responses to Healthcare Queries by
 Large Language Models</b> available as pre-print now! <a href="https://arxiv.org/pdf/2409.19492">ArXiv Link</a></p></li>
   
-<li><p style="font-size:medium;"><b>[May 2024]:</b> Started my research internship in the Human-Centered AI (HCAIX) group at Microsoft Research. 😄/p></li>
+<li><p style="font-size:medium;"><b>[May 2024]:</b> Started my research internship in the Human-Centered AI (HCAIX) group at Microsoft Research.😄</p></li>
 
-<li><p style="font-size:medium;"><b>[April 2024]:</b> Passed my Ph.D. Qualifiers at Georgia Tech. 📚🥳 </p></li>
+<li><p style="font-size:medium;"><b>[April 2024]:</b> Passed my Ph.D. Qualifiers at Georgia Tech.📚🥳</p></li>
   
 <li><p style="font-size:medium;"><b>[January 2024]:</b> Our work <b>Better to Ask in English: Cross-Lingual Evaluation of Large Language Models for Healthcare Queries</b> has been accepted to the <a href="https://www2024.thewebconf.org/">Web Conference 2024</a>.🥳 Paper <a href="https://dl.acm.org/doi/pdf/10.1145/3589334.3645643">Link</a></p></li>
 
