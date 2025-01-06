@@ -187,6 +187,26 @@ author_profile: true
         .figure {
             width: min(90%, 800px);
             padding: 0 1rem;
+            text-align: center;
+        }
+
+        .figure img {
+            width: 100%;
+            height: auto;
+            border-radius: 4px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            margin: 0 auto;
+            display: block;
+        }
+
+        .figure figcaption {
+            margin-top: 1rem;
+            font-size: 0.9rem;
+            color: #666;
+            line-height: 1.4;
+            font-style: italic;
+            text-align: center;
+            width: 100%;
         }
 
         /* Media Queries */
@@ -341,6 +361,54 @@ author_profile: true
         <div>
             <p>As expected, larger models(by parameter size) outperformed their smaller counterparts in the ADR detection task within their respective families,with Claude3 Opus achieving the highest accuracy at 77.41%, followed by GPT-4o and GPT-4Turbo at 72.03%. Interestingly, specialized medical models(OpenBioLLM-Llama3-70B and Llama3Med42v2-70B)struggled in this task. However, for ADR multiclass classification,we did not observe any clear pattern between model size and performance. GPT-4 Turbo was the best performing model with an accuracy of 57.58%, followed by Llama3-Med42v2-70B at 56.40%. All models struggled with multiclass classification,likely due to the complexity of distinguishing between ADR types.</p>
         </div>
+
+        <h3>Finding 2: Models exhibited a “risk-averse” tendency, and prone to commit false-positive errors</h3>
+
+        <div>
+            <p>In both ADR detection and multiclass classification tasks, all models displayed “risk-averse" behavior, often mislabeling posts without ADRs as positive for ADRs. In zero-shot settings,Claude Opus had a false-positive rate of 42% for ‘ADR-No’ labels, while Claude3 Haiku’s false positive rate was as high as 97%(see paper). Similarly, in ADR multiclass classification, models struggled to distinguish between non-dose-related, dose-related, and time-related ADRs. GPT-4Turbo misclassified 51% of non-dose-related and 50% of time-related ADRs in zero-shot settings.</p>
+        </div>
+
+        <h3>Finding 3: In-context learning enhances model performance but not in every case</h3>
+
+        <div>
+            <p>We observed that in-context learning in general improved performance of models for both ADR detection and multiclass classification tasks, with a more significant impact on the latter task. For multiclass classification, we observed an average increase of 18.14 and 23.06 points in weighted F1 score among model performance using least-similar and most-similar example prompting respectively. However, this pattern was not observed in the ADR detection task. Claude 3 Opus outperformed other models in the ADR detection, achieving an F1 score of 76.44 with zero-shot prompting. In ADR multiclass classification, Llama-3.5-405B performed best with most-similar examples (F1 76.69).</p>
+        </div>
+
+        <h3>Finding 4: LLMs generate harder to read replies as compared to experts</h3>
+
+        <div>
+            <figure class="figure" style="width: 100%; text-align: center;">
+                <img src="../images/adr_paper_blog/figure_4.png" alt="Figure 3: Mean SMOG Scores and 95% Confidence Intervals for Various Models (lower values are better)." style="width: 60%; margin: 0 auto; display: block;" />
+                <figcaption>Figure 3: Mean SMOG Scores and 95% Confidence Intervals for Various Models (lower values are better).</figcaption>
+            </figure>
+            <br>
+            <p>LLM-generated responses tend to be more complex, reflected in higher SMOG scores compared to those written by experts (SMOG mean11.02) in the Psych-ADR benchmark. Welch’s t-test (Welch, 1947) further revealed that the SMOG scores of expert-written responses were significantly lower than those of any LLMgenerated responses. We also observed that more capable models produced more readable responses (with Claude 3 Opus being an exception). Similar to the findings on emotional alignment, Llama3Med42v2-70B showed the lowest alignment with the expert-written responses, producing the most complex responses, likely due to a major portion of instruction-tuning data coming from medical and biomedical scientific literature.</p>
+        </div>
+
+        <h3>Finding 5: LLMs struggle to provide expert-aligned harm reduction strategies with the best model providing ~71% alignment with experts</h3>
+
+        <div>
+            <figure class="figure" style="width: 100%; text-align: center;">
+                <img src="../images/adr_paper_blog/figure_5.png" alt="Table 2: Alignment of harm reduction strategies of various models with the expert’s response.We report the mean and standard deviation for the AlignScore metric GPT-4o score, with the best (bold) and second-best (underline) performing model in each metric highlighted." style="width: 60%; margin: 0 auto; display: block;" />
+                <figcaption>Table 2: Alignment of harm reduction strategies of various models with the expert’s response.We report the mean and standard deviation for the AlignScore metric GPT-4o score, with the best (bold) and second-best (underline) performing model in each metric highlighted.</figcaption>
+            </figure>
+            <br>
+            <p>More capable models Llama 3.1-405B Instruct and Claude 3.5 Sonnet in their respective families tended to produce strategies less aligned with the expert than their smaller counterparts, validating a previously observed pattern of LLM performance in responding to open-ended clinical questions (Kanithi et al., 2024). While the open-weights models performed on par or better than proprietary models across both alignment metrics, the best performing medical model (OpenBioLLM-Llama3-70B) aligned with expert harm reduction strategies for 70.86% of the cases, highlighting the need for further fine-tuning for specialized domains such as psychiatry.</p>
+        </div>
+
+        <h3>Finding 6: While LLMs provide less practical and relevant advice, their advice is more clear and specific.</h3>
+
+        <div>
+            <figure class="figure" style="width: 100%; text-align: center;">
+                <img src="../images/adr_paper_blog/figure_6.png" alt="Table 3: Mean actionability alignment scores of harm reduction strategies (last column),computed as average of practicality, relevance, specificity, and clarity scores." style="width: 60%; margin: 0 auto; display: block;" />
+                <figcaption>Table 3: Mean actionability alignment scores of harm reduction strategies (last column),computed as average of practicality, relevance, specificity, and clarity scores.</figcaption>
+            </figure>
+            <br>
+            <p>We noted that expert responses scored the highest on overall actionability in comparison to all the LLMs(0.46). Nonetheless, medical models like OpenBioLLMLlama3-70B and Llama3-Med42v2-70B demonstrated reasonable actionability scores(0.44), followed by other proprietary and open-weights models (0.35 to 0.43). While expert responses were rated considerably better than all LLM responses in terms of the practicality (0.83) and contextual relevance (0.73) of the harm reduction strategies,their specificity (0.17) and clarity (0.13) are relatively lacking. This indicates that while LLMs tend to demonstrate greater specificity and clarity in their harm reduction strategy, the recommended strategies may often not be feasible and contextually relevant,considering the users personal circumstances,such as physical ability,financial resources, and time constraints.</p>
+        </div>
+
+
+
 
         <footer>
             &copy; 2024 ADR Paper Blog. All rights reserved.
