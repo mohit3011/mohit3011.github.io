@@ -477,7 +477,15 @@ author_profile: true
 
         <script>
             function copyToClipboard() {
-                const citationText = document.getElementById('citation-text').textContent;
+                // Get the citation text but exclude the button
+                const citationElement = document.getElementById('citation-text');
+                const buttonElement = citationElement.querySelector('.copy-button');
+                
+                // Clone the citation element without the button
+                const tempElement = citationElement.cloneNode(true);
+                tempElement.querySelector('.copy-button').remove();
+                const citationText = tempElement.textContent;
+
                 navigator.clipboard.writeText(citationText).then(() => {
                     const button = document.querySelector('.copy-button');
                     const originalText = button.innerHTML;
