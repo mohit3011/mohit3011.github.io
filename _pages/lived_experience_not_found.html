@@ -233,6 +233,20 @@ author_profile: true
                 display: none;
             }
         }
+
+        h3 {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: #2e2e2e;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            line-height: 1.4;
+        }
+
+        h3:contains("Finding") {
+            color: #3273dc;
+            font-weight: 500;
+        }
     </style>
 </head>
 <body>
@@ -295,6 +309,37 @@ author_profile: true
             </figure>
             <br>
             <p>Psych-ADR benchmark is a novel dataset with 239 reddit posts related to psychiatric medications and symptoms with annotations and replies provided by medical experts. The dataset contains two-hierarchical labels depicting -- 1) Presence/Absence of ADR, 2) Category of ADR. A key aspect of the Psych-ADR benchmark is the inclusion of expert-written responses to queries in the ADR labeled posts. We identified and articulated the logical structure where each response in our dataset begins with empathizing with the patient, followed by information on diagnosis, request for additional information, proposing harm reduction strategies to mitigate the ADR, and concluding with a final set of questions.</p>
+        </div>
+
+        <h2>ADRA Alignment Framework</h2>
+
+        <div>
+            <p>Evaluation of long-form text generation is an open problem and involves many challenges like isolating the stylistics from the semantics. However, in the context of responses to ADR queries, we propose abstracting out the LLM generations and ground-truth expert responses to four key components– (1) emotion and tone, (2) text readability, (3) harm reduction strategy, and (4) actionability of proposed strategies. Via this abstraction to key components, our alignment evaluations focus on specific aspects that contribute towards an ideal response to ADR queries.</p>
+            <br>
+            <ul style="margin-left: 40px;">
+                <li><b>Emotion and Tone Alignment</b>: We measured the alignment of LLM-generated and expert written answers across 8 relevant emotional and tonal categories identified from prior literature.</li>
+                <br>
+                <li><b>Readability Alignment</b>: To evaluate the difficulty level of reading both LLM-generated content and expert-written text, we employed the SMOG Index—a widely recognized measure commonly used to assess health literacy materials.</li>
+                <br>
+                <li><b>Harm Reduction Strategy Alignment</b>: In cases of adverse reactions to psychiatric medications, suggesting safe medical interventions is crucial to prevent further harm. We operationalized these interventions using harm reduction strategies (HRS), aimed at minimizing the negative effects of medications that one is reliant on. Ideally, LLMs should propose strategies that align with the expert's responses.</li>
+                <br>
+                <li><b>Actionability of Proposed Strategies</b>: Actionability in the responses of healthcare professionals enables greater engagement and encourages increased action from patients. To this end, we designed an approach to measure the alignment between LLM responses and expert responses along the actionability dimension using four (4) sub-criteria.</li>
+            </ul>
+        </div>
+
+        <h2>Findings</h2>
+
+        <div>
+            <figure class="figure" style="width: 100%; text-align: center;">
+                <img src="../images/adr_paper_blog/figure_3.png" alt="Table 1: Performance of different models on Binary Detection and Multiclass Classification tasks under Zero-Shot and 5-Shot scenarios. We report the accuracy score(Acc.) and weighted F1 score as(F1) with the best and second-best performing model metrics in each scenario highlighted in bold and underline, respectively." style="width: 60%; margin: 0 auto; display: block;" />
+                <figcaption>Table 1: Performance of different models on Binary Detection and Multiclass Classification tasks under Zero-Shot and 5-Shot scenarios. We report the accuracy score(Acc.) and weighted F1 score as(F1) with the best and second-best performing model metrics in each scenario highlighted in bold and underline, respectively.</figcaption>
+            </figure>
+        </div>
+
+        <h3>Finding 1: Larger models typically perform better for ADR detection tasks,but this trend does not hold for ADR multiclass classification</h3>
+
+        <div>
+            <p>As expected, larger models(by parameter size) outperformed their smaller counterparts in the ADR detection task within their respective families,with Claude3 Opus achieving the highest accuracy at 77.41%, followed by GPT-4o and GPT-4Turbo at 72.03%. Interestingly, specialized medical models(OpenBioLLM-Llama3-70B and Llama3Med42v2-70B)struggled in this task. However, for ADR multiclass classification,we did not observe any clear pattern between model size and performance. GPT-4 Turbo was the best performing model with an accuracy of 57.58%, followed by Llama3-Med42v2-70B at 56.40%. All models struggled with multiclass classification,likely due to the complexity of distinguishing between ADR types.</p>
         </div>
 
         <footer>
