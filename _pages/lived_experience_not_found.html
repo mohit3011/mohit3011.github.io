@@ -112,20 +112,8 @@ author_profile: true
             background-color: #B31B1B;
         }
 
-        .button.arxiv:hover {
-            background-color: #B31B1B;
-            color: #e7d7d5;
-            opacity: 1;
-        }
-
         .button.github {
             background-color: #333;
-        }
-
-        .button.github:hover {
-            background-color: #333;
-            color: #c29c71;
-            opacity: 1;
         }
 
         .button img {
@@ -149,24 +137,34 @@ author_profile: true
             padding: 1.5rem clamp(1rem, 3vw, 1.5rem);
             background-color: #f8f9fa;
             border-radius: 8px;
-            border-left: none;
         }
 
         .author-list {
-            margin-bottom: 1rem;
-            line-height: 1.6;
-            font-size: clamp(0.9rem, 2.5vw, 1rem);
+            overflow-x: auto;
+            white-space: nowrap;
+            padding-bottom: 0.5rem;
+            -webkit-overflow-scrolling: touch;
         }
 
-        .author-name {
-            color: #2a2a2a;
-            text-decoration: none;
-            transition: color 0.2s ease;
+        .author-list p {
+            display: flex;
+            flex-wrap: nowrap;
+            gap: 0.5rem;
         }
 
-        .author-name:hover {
-            color: #3273dc;
-            text-decoration: none;
+        .author-list a {
+            display: inline-block;
+            align-items: center;
+            padding: 0.25rem 0.5rem;
+            background-color: #f5f5f5;
+            border-radius: 4px;
+            margin-right: 0.25rem;
+            flex-shrink: 0;
+        }
+
+        .author-list a::after,
+        .affiliations p span::after {
+            content: none;
         }
 
         .affiliations {
@@ -238,30 +236,33 @@ author_profile: true
 
             .affiliations p {
                 display: flex;
-                flex-direction: column;
+                flex-wrap: wrap;
                 gap: 0.5rem;
             }
 
             .affiliation {
-                display: block;
+                display: inline-flex;
+                align-items: center;
+                margin: 0;
+                padding: 0.25rem 0.5rem;
+                background-color: #f5f5f5;
+                border-radius: 4px;
+                border: none;
             }
 
-            /* Hide the separator on mobile */
-            .affiliations span.affiliation + span::before {
-                display: none;
+            /* Remove the separator pipes */
+            .affiliations p span + span::before,
+            .affiliations p span::after {
+                content: none;
             }
         }
 
         @media screen and (max-width: 480px) {
-            .author-list p {
-                display: flex;
-                flex-direction: column;
-                gap: 0.5rem;
-            }
-
-            .author-list a::after {
-                content: ',';
-                display: none;
+            
+            figure>img{
+                width: 100% !important;/* Set images and figures to 100% width */
+                margin: 0 auto !important;
+                display: block !important;
             }
         }
 
@@ -336,9 +337,9 @@ author_profile: true
                 </p>
             </div>
             <div class="affiliations">
-                <p><span class="affiliation"><sup>1</sup>College of Computing, Georgia Institute of Technology</span> | 
-                   <span class="affiliation"><sup>2</sup>Hospital General Universitario Gregorio Marañón</span> | 
-                   <span class="affiliation"><sup>3</sup>Hofstra University</span> | 
+                <p><span class="affiliation"><sup>1</sup>College of Computing, Georgia Institute of Technology</span> 
+                   <span class="affiliation"><sup>2</sup>Hospital General Universitario Gregorio Marañón</span>
+                   <span class="affiliation"><sup>3</sup>Hofstra University</span> 
                    <span class="affiliation"><sup>4</sup>Columbia University</span></p>
             </div>
         </div>
@@ -359,7 +360,7 @@ author_profile: true
         <h2>Introduction</h2>
         <div>
             <figure class="figure" style="width: 100%; text-align: center;">
-                <img src="../images/adr_paper_blog/figure_1.png" alt="Overview of work; we present two tasks in this work– ADR detection and multiclass classification (RQ1), and Expert-LLM response alignment (RQ2)." style="width: 55%; margin: 0 auto; display: block;" />
+                <img src="../images/adr_paper_blog/figure_1.png" alt="Overview of work; we present two tasks in this work– ADR detection and multiclass classification (RQ1), and Expert-LLM response alignment (RQ2)." style="width: 40%; margin: 0 auto; display: block;" />
                 <figcaption>Figure 1: Overview of work; we present two tasks in this work– ADR detection and multiclass classification (RQ1), and Expert-LLM response alignment (RQ2).</figcaption>
             </figure>
             <br>
@@ -370,7 +371,7 @@ author_profile: true
 
         <div>
             <figure class="figure" style="width: 100%; text-align: center;">
-                <img src="../images/adr_paper_blog/figure_2.png" alt="Figure 2: (Left)Class-wise distribution of examples in thePsych-ADR benchmark dataset; % w.r.t. N = 239. (Right) Sample answer representing the structure of answers provided in the Psych-ADR benchmark dataset." style="width: 80%; margin: 0 auto; display: block;" />
+                <img src="../images/adr_paper_blog/figure_2.png" alt="Figure 2: (Left)Class-wise distribution of examples in thePsych-ADR benchmark dataset; % w.r.t. N = 239. (Right) Sample answer representing the structure of answers provided in the Psych-ADR benchmark dataset." style="width: 60%; margin: 0 auto; display: block;" />
                 <figcaption>Figure 2: (Left)Class-wise distribution of examples in thePsych-ADR benchmark dataset; % w.r.t. N = 239. (Right) Sample answer representing the structure of answers provided in the Psych-ADR benchmark dataset.</figcaption>
             </figure>
             <br>
@@ -397,7 +398,7 @@ author_profile: true
 
         <div>
             <figure class="figure" style="width: 100%; text-align: center;">
-                <img src="../images/adr_paper_blog/figure_3.png" alt="Table 1: Performance of different models on Binary Detection and Multiclass Classification tasks under Zero-Shot and 5-Shot scenarios. We report the accuracy score(Acc.) and weighted F1 score as(F1) with the best and second-best performing model metrics in each scenario highlighted in bold and underline, respectively." style="width: 100%; margin: 0 auto; display: block;" />
+                <img src="../images/adr_paper_blog/figure_3.png" alt="Table 1: Performance of different models on Binary Detection and Multiclass Classification tasks under Zero-Shot and 5-Shot scenarios. We report the accuracy score(Acc.) and weighted F1 score as(F1) with the best and second-best performing model metrics in each scenario highlighted in bold and underline, respectively." style="width: 60%; margin: 0 auto; display: block;" />
                 <figcaption>Table 1: Performance of different models on Binary Detection and Multiclass Classification tasks under Zero-Shot and 5-Shot scenarios. We report the accuracy score(Acc.) and weighted F1 score as(F1) with the best and second-best performing model metrics in each scenario highlighted in bold and underline, respectively.</figcaption>
             </figure>
         </div>
@@ -435,7 +436,7 @@ author_profile: true
 
         <div>
             <figure class="figure" style="width: 100%; text-align: center;">
-                <img src="../images/adr_paper_blog/figure_5.png" alt="Table 2: Alignment of harm reduction strategies of various models with the expert’s response.We report the mean and standard deviation for the AlignScore metric GPT-4o score, with the best (bold) and second-best (underline) performing model in each metric highlighted." style="width: 50%; margin: 0 auto; display: block;" />
+                <img src="../images/adr_paper_blog/figure_5.png" alt="Table 2: Alignment of harm reduction strategies of various models with the expert’s response.We report the mean and standard deviation for the AlignScore metric GPT-4o score, with the best (bold) and second-best (underline) performing model in each metric highlighted." style="width: 60%; margin: 0 auto; display: block;" />
                 <figcaption>Table 2: Alignment of harm reduction strategies of various models with the expert’s response.We report the mean and standard deviation for the AlignScore metric GPT-4o score, with the best (bold) and second-best (underline) performing model in each metric highlighted.</figcaption>
             </figure>
             <br>
@@ -510,7 +511,7 @@ author_profile: true
         </script>
 
         <footer>
-            &copy; 2025 ADR Paper Blog. All rights reserved.
+            &copy; 2025 Mohit Chandra. All rights reserved.
         </footer>
     </div>
 </body>
