@@ -268,13 +268,17 @@ author_profile: true
 
             .author-list a,
             .affiliation {
-                display: inline-flex;
                 border-radius: 4px;
                 flex-shrink: 0;
+                vertical-align: center;
             }
 
             .author-list a:last-child::after {
                 content: none;
+            }
+
+            .affiliation sup {
+                line-height: normal;
             }
 
             
