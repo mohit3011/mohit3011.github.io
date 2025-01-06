@@ -29,6 +29,9 @@ author_profile: true
             border-radius: 8px;
             padding: 20px;
             margin-top: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+            width: 90%;
         }
 
         h1, h2, h3 {
@@ -37,9 +40,13 @@ author_profile: true
         }
 
         h1 {
-            font-size: 2rem;
+            font-size: clamp(1.5rem, 4vw, 2rem);
+            font-weight: 700;
             text-align: center;
-            margin-bottom: 20px;
+            margin: 2rem 0;
+            line-height: 1.4;
+            color: #2e2e2e;
+            padding: 0 1rem;
         }
 
         p, a {
@@ -81,6 +88,9 @@ author_profile: true
             justify-content: center;
             gap: 15px;
             margin-top: 20px;
+            flex-direction: row;
+            flex-wrap: wrap;
+            padding: 0 1rem;
         }
 
         .button {
@@ -95,6 +105,8 @@ author_profile: true
             font-size: 1rem;
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
             transition: background-color 0.3s ease;
+            white-space: nowrap;
+            margin: 5px;
         }
 
         .button.arxiv {
@@ -120,34 +132,169 @@ author_profile: true
             margin-top: 40px;
             font-size: 0.9rem;
         }
+
+        .authors {
+            margin: 2rem clamp(0.5rem, 3vw, 2rem);
+            padding: 1.5rem clamp(1rem, 3vw, 1.5rem);
+            background-color: #f8f9fa;
+            border-radius: 8px;
+            border-left: none;
+        }
+
+        .author-list {
+            margin-bottom: 1rem;
+            line-height: 1.6;
+            font-size: clamp(0.9rem, 2.5vw, 1rem);
+        }
+
+        .author-name {
+            color: #2a2a2a;
+            text-decoration: none;
+            transition: color 0.2s ease;
+        }
+
+        .author-name:hover {
+            color: #3273dc;
+            text-decoration: none;
+        }
+
+        .affiliations {
+            font-size: clamp(0.8rem, 2vw, 0.9rem);
+            color: #666;
+            line-height: 1.4;
+        }
+
+        .affiliation {
+            display: inline-block;
+            margin-right: 0.5rem;
+        }
+
+        .affiliation sup {
+            color: #3273dc;
+            font-weight: 500;
+        }
+
+        h2 {
+            font-size: 1.75rem;
+            font-weight: 600;
+            color: #2e2e2e;
+            margin-top: 2.5rem;
+            margin-bottom: 1.5rem;
+            padding-bottom: 0.5rem;
+            border-top: 2px solid #eaeaea;
+        }
+
+        .figure {
+            width: min(90%, 800px);
+            padding: 0 1rem;
+        }
+
+        /* Media Queries */
+        @media screen and (max-width: 768px) {
+            .buttons {
+                flex-direction: column;
+                align-items: stretch;
+            }
+
+            .button {
+                width: 100%;
+                margin: 5px 0;
+            }
+
+            .figure {
+                width: 100%;
+            }
+
+            .affiliations p {
+                display: flex;
+                flex-direction: column;
+                gap: 0.5rem;
+            }
+
+            .affiliation {
+                display: block;
+            }
+
+            /* Hide the separator on mobile */
+            .affiliations span.affiliation + span::before {
+                display: none;
+            }
+        }
+
+        @media screen and (max-width: 480px) {
+            .author-list p {
+                display: flex;
+                flex-direction: column;
+                gap: 0.5rem;
+            }
+
+            .author-list a::after {
+                content: ',';
+                display: none;
+            }
+        }
     </style>
 </head>
 <body>
 
     <!-- Main Content -->
     <div>
-        <h1><i>Lived Experience Not Found</i>: LLMs Struggle to Align with Experts on Addressing Adverse Drug Reactions</h1>
+        <h1><i>Lived Experience Not Found:</i> LLMs Struggle to Align with Experts on Addressing Adverse Drug Reactions</h1>
         
         <div class="authors">
             <h3>Authors</h3>
-            <p>Mohit Chandra<sup>1</sup>, Siddharth Sriraman<sup>1</sup>, Gaurav Verma<sup>1</sup>, Harneet Singh Khanuja<sup>1</sup>, Jose Suarez Campayo<sup>2</sup>, Zihang Li<sup>3</sup>, Michael L. Birnbaum<sup>4</sup>, Munmun De Choudhury<sup>1</sup></p>
-            <p><small>1: College of Computing, Georgia Institute of Technology | 2: Hospital General Universitario Gregorio Marañón | 3: Hofstra University | 4: Columbia University</small></p>
+            <div class="author-list">
+                <p>
+                    <a href="#" class="author-name">Mohit Chandra</a><sup>1</sup>, 
+                    <a href="#" class="author-name">Siddharth Sriraman</a><sup>1</sup>, 
+                    <a href="#" class="author-name">Gaurav Verma</a><sup>1</sup>, 
+                    <a href="#" class="author-name">Harneet Singh Khanuja</a><sup>1</sup>, 
+                    <a href="#" class="author-name">Jose Suarez Campayo</a><sup>2</sup>, 
+                    <a href="#" class="author-name">Zihang Li</a><sup>3</sup>, 
+                    <a href="#" class="author-name">Michael L. Birnbaum</a><sup>4</sup>, 
+                    <a href="#" class="author-name">Munmun De Choudhury</a><sup>1</sup>
+                </p>
+            </div>
+            <div class="affiliations">
+                <p><span class="affiliation"><sup>1</sup>College of Computing, Georgia Institute of Technology</span> | 
+                   <span class="affiliation"><sup>2</sup>Hospital General Universitario Gregorio Marañón</span> | 
+                   <span class="affiliation"><sup>3</sup>Hofstra University</span> | 
+                   <span class="affiliation"><sup>4</sup>Columbia University</span></p>
+            </div>
         </div>
         
-        <div class="links">
-            <h3>Related Links</h3>
-            <ul>
-                <li><a href="https://arxiv.org/abs/2310.13132" target="_blank">Paper on arXiv</a></li>
-                <li><a href="https://www.youtube.com/watch?v=pmEafw5ZOPg" target="_blank">Presentation Video</a></li>
-                <li><a href="https://github.com/claws-lab/XLingEval" target="_blank">Code Repository</a></li>
-                <li><a href="https://huggingface.co/datasets/claws-lab/XLingHealth" target="_blank">Dataset on Hugging Face</a></li>
-            </ul>
+        <div>
+            <div class="buttons">
+                <a href="https://arxiv.org/abs/2310.13132" target="_blank" class="button arxiv">
+                    <i class="fas fa-file-pdf"></i>
+                    Paper on arXiv
+                </a>
+                <a href="https://github.com/claws-lab/XLingEval" target="_blank" class="button github">
+                    <i class="fab fa-github"></i>
+                    Code Repository
+                </a>
+            </div>
         </div>
 
         <h2>Introduction</h2>
         <div>
-            <img src="../images/adr_paper_blog/figure_1.png" alt="Overview of work; we present two tasks in this work– ADR detection and multiclass classification (RQ1), and Expert-LLM response alignment (RQ2)."></img>
+            <figure class="figure" style="width: 100%; text-align: center;">
+                <img src="../images/adr_paper_blog/figure_1.png" alt="Overview of work; we present two tasks in this work– ADR detection and multiclass classification (RQ1), and Expert-LLM response alignment (RQ2)." style="width: 40%; margin: 0 auto; display: block;" />
+                <figcaption>Figure 1: Overview of work; we present two tasks in this work– ADR detection and multiclass classification (RQ1), and Expert-LLM response alignment (RQ2).</figcaption>
+            </figure>
+            <br>
             <p>Adverse Drug Reactions (ADRs) from psychiatric medications are one of the leading causes of hospitalizations among mental health patients. With healthcare systems and online communities facing limitations in resolving ADR-related issues, Large Language Models (LLMs) have the potential to fill this gap. However, despite the increasing capabilities of LLMs, past research has not explored their capabilities in detecting ADRs related to psychiatric medications or in providing effective harm reduction strategies. To address this, in this work, we introduce the Psych-ADR benchmark and the Adverse Drug Reaction Response Assessment (ADRA) framework to systematically evaluate LLM performance in detecting ADR expressions and delivering expert-aligned mitigation strategies. The proposed Psych-ADR benchmark includes 239 Reddit posts, labeled across two hierarchical levels for ADR detection and multiclass classification along with expert-written responses to queries. The proposed framework evaluates LLM-generated responses against those of medical experts, focusing on four assessment axes: (a) text readability, (b) emotion and tone expression, (c) alignment of harm-reduction strategies, and (d) actionability of suggested strategies.</p>
+        </div>
+
+        <h2>Psych-ADR Benchmark</h2>
+
+        <div>
+            <figure class="figure" style="width: 100%; text-align: center;">
+                <img src="../images/adr_paper_blog/figure_2.png" alt="Figure 2: (Left)Class-wise distribution of examples in thePsych-ADR benchmark dataset; % w.r.t. N = 239. (Right) Sample answer representing the structure of answers provided in the Psych-ADR benchmark dataset." style="width: 60%; margin: 0 auto; display: block;" />
+                <figcaption>Figure 2: (Left)Class-wise distribution of examples in thePsych-ADR benchmark dataset; % w.r.t. N = 239. (Right) Sample answer representing the structure of answers provided in the Psych-ADR benchmark dataset.</figcaption>
+            </figure>
+            <br>
+            <p>Psych-ADR benchmark is a novel dataset with 239 reddit posts related to psychiatric medications and symptoms with annotations and replies provided by medical experts. The dataset contains two-hierarchical labels depicting -- 1) Presence/Absence of ADR, 2) Category of ADR. A key aspect of the Psych-ADR benchmark is the inclusion of expert-written responses to queries in the ADR labeled posts. We identified and articulated the logical structure where each response in our dataset begins with empathizing with the patient, followed by information on diagnosis, request for additional information, proposing harm reduction strategies to mitigate the ADR, and concluding with a final set of questions.</p>
         </div>
 
         <footer>
