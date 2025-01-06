@@ -499,12 +499,11 @@ author_profile: true
                 try {
                     document.execCommand('copy');
                     const button = document.querySelector('.copy-button');
-                    const originalText = button.innerHTML;
                     button.innerHTML = '<i class="fas fa-check"></i> Copied!';
                     button.style.backgroundColor = '#48c774';
                     
                     setTimeout(() => {
-                        button.innerHTML = originalText;
+                        button.innerHTML = '<i class="far fa-copy"></i> Copy';
                         button.style.backgroundColor = '#3273dc';
                     }, 2000);
                 } catch (err) {
