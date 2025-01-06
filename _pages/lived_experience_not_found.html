@@ -486,7 +486,18 @@ author_profile: true
                 tempElement.querySelector('.copy-button').remove();
                 const citationText = tempElement.textContent;
 
-                navigator.clipboard.writeText(citationText).then(() => {
+                // Create temporary textarea
+                const textarea = document.createElement('textarea');
+                textarea.value = citationText;
+                textarea.setAttribute('readonly', '');
+                textarea.style.position = 'absolute';
+                textarea.style.left = '-9999px';
+                document.body.appendChild(textarea);
+
+                // Select and copy text
+                textarea.select();
+                try {
+                    document.execCommand('copy');
                     const button = document.querySelector('.copy-button');
                     const originalText = button.innerHTML;
                     button.innerHTML = '<i class="fas fa-check"></i> Copied!';
@@ -496,9 +507,12 @@ author_profile: true
                         button.innerHTML = originalText;
                         button.style.backgroundColor = '#3273dc';
                     }, 2000);
-                }).catch(err => {
+                } catch (err) {
                     console.error('Failed to copy text: ', err);
-                });
+                }
+
+                // Cleanup
+                document.body.removeChild(textarea);
             }
         </script>
 
