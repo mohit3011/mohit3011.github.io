@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p style="font-size:large;">
-I am a third-year CS PhD student in the School of Interactive Computing at <a href="https://www.gatech.edu/">Georgia Tech</a>, where I'm advised by Prof. <a href="http://www.munmund.net/">Munmun De Choudhury</a>. Using computational techinques from Natural Language Processing (NLP) and theories from Sociology and Psychology, <b>my research takes a human-centered approach to evaluate and improve the quality of information produced through Generative AI technologies. Focusing on attributes such as actionability, personalization, and the potential negative implications of the generated content, my work aims to align information generation and delivery with human preferences, needs, and ethical considerations.</b>.
+I am a third-year CS PhD student in the School of Interactive Computing at <a href="https://www.gatech.edu/">Georgia Tech</a>, where I'm advised by Prof. <a href="http://www.munmund.net/">Munmun De Choudhury</a>. Using computational techniques from Natural Language Processing (NLP) and theories from Sociology and Psychology, <b>my research takes a human-centered approach to evaluate and improve the quality of information produced through Generative AI technologies. Focusing on attributes such as actionability, personalization, and the potential negative implications of the generated content, my work aims to align information generation and delivery with human preferences, needs, and ethical considerations.</b>
 
 </p>
 
