@@ -13,7 +13,7 @@ I am a third-year CS PhD student in the School of Interactive Computing at <a hr
 </p>
 
 <p style="font-size:large;">
-In my dissertation, I explore the nuanced aspects of interactions between humans and online/Generative AI platforms, focusing on how variations in user backgrounds, purposes of use, and historical engagement influence the quality of information and services provided. My research aims to define and quantify low-quality information within these contexts in healthcare and mental health, establishing metrics to evaluate and improve these systems and make them safer to use. Through my research, I aim to uncover and reduce systemic issues within Generative AI technologies through systematic frameworks, providing data-driven insights to policymakers, researchers, and developers for creating more equitable, safe and user-centered AI systems.
+In my dissertation, I explore the nuanced aspects of interactions between humans and online/Generative AI platforms, focusing on how variations in user backgrounds, purposes of use, and historical engagement influence the quality of information and services provided. My research aims to define and quantify low-quality information within these contexts in healthcare and mental health, establishing metrics to evaluate and improve these systems and make them safer to use. Through my research, I aim to uncover and reduce systemic issues within Generative AI technologies through systematic frameworks, providing data-driven insights to policymakers, researchers, and developers for creating more robust, safe and user-centered AI systems.
 </p>
 
 
