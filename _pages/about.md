@@ -32,6 +32,8 @@ Updates
 <li><p style="font-size:medium;"><b>[January 2025]:</b> Our work <b>Lived Experience Not Found: LLMs Struggle to Align with Experts on
 Addressing Adverse Drug Reactions from Psychiatric Medication Use</b> has been accepted to <a href="https://2025.naacl.org/">NAACL 2025</a>.🥳 Pre-Print <a href="https://arxiv.org/abs/2410.19155">Link</a></p></li>
 
+<li><p style="font-size:medium;"><b>[January 2025]:</b> Gave a talk on <b>Psychological Impact of Conversational AI Use</b> at the Microsoft Research AI & Society talk series.</p></li>
+
 <li><p style="font-size:medium;"><b>[December 2024]:</b> Our work <b>From Lived Experience to Insight: Unpacking the Psychological Risks of Using AI Conversational Agents</b> available as pre-print now! <a href="https://arxiv.org/abs/2412.07951">ArXiv Link</a></p></li>
   
 <li><p style="font-size:medium;"><b>[October 2024]:</b> Our work <b>Lived Experience Not Found: LLMs Struggle to Align with Experts on
