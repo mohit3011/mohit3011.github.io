@@ -29,6 +29,12 @@ Updates
 <div style="overflow-y: scroll; height:400px;">
 <ul>
 
+<li><p style="font-size:medium;"><b>[April 2025]:</b> Our work <b>Longitudinal Study on Social and Emotional Use of AI Conversational Agent</b> available as pre-print now! <a href="https://arxiv.org/abs/2504.14112">ArXiv Link</a></p></li>
+
+<li><p style="font-size:medium;"><b>[April 2025]:</b> Our work <b>From Lived Experience to Insight: Unpacking the Psychological Risks of Using AI Conversational Agents</b> has been accepted to <a href="https://facctconference.org/2025/">ACM FAccT 2025</a>.🥳 Pre-Print <a href="https://arxiv.org/abs/2412.07951">Link</a></p></li>
+
+<li><p style="font-size:medium;"><b>[April 2025]:</b> Our work <b>A Framework for Situating Innovations, Opportunities, and Challenges in Advancing Vertical Systems with Large AI Models</b> available as pre-print now! <a href="https://arxiv.org/abs/2504.02793">ArXiv Link</a></p></li>
+
 <li><p style="font-size:medium;"><b>[January 2025]:</b> Our work <b>Lived Experience Not Found: LLMs Struggle to Align with Experts on
 Addressing Adverse Drug Reactions from Psychiatric Medication Use</b> has been accepted to <a href="https://2025.naacl.org/">NAACL 2025</a>.🥳 Pre-Print <a href="https://arxiv.org/abs/2410.19155">Link</a></p></li>
 
