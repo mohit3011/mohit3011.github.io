@@ -29,6 +29,8 @@ Updates
 <div style="overflow-y: scroll; height:400px;">
 <ul>
 
+<li><p style="font-size:medium;"><b>[May 2025]:</b> Our work <b>Reasoning Is Not All You Need: Examining LLMs for Multi-Turn Mental Health Conversations</b> available as pre-print now! <a href="https://arxiv.org/abs/2505.20201">ArXiv Link</a></p></li>
+
 <li><p style="font-size:medium;"><b>[April 2025]:</b> Our work <b>Longitudinal Study on Social and Emotional Use of AI Conversational Agent</b> available as pre-print now! <a href="https://arxiv.org/abs/2504.14112">ArXiv Link</a></p></li>
 
 <li><p style="font-size:medium;"><b>[April 2025]:</b> Our work <b>From Lived Experience to Insight: Unpacking the Psychological Risks of Using AI Conversational Agents</b> has been accepted to <a href="https://facctconference.org/2025/">ACM FAccT 2025</a>.🥳 Pre-Print <a href="https://arxiv.org/abs/2412.07951">Link</a></p></li>
