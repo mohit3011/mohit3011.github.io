@@ -9,18 +9,18 @@ redirect_from:
 ---
 <style>
     .highlight1 {
-      background-color: #FCD8CD;
+      background-color: #ADB2D4;
       border-radius: 4px;
       padding: 2px 4px;
     }
   .highlight2 {
-      background-color: #FEEBF6;
+      background-color: #C7D9DD;
       border-radius: 4px;
       padding: 2px 4px;
     }
 
   .highlight3 {
-      background-color: #EBD6FB;
+      background-color: #D5E5D5;
       border-radius: 4px;
       padding: 2px 4px;
     }
@@ -29,7 +29,7 @@ redirect_from:
 
 
 <p style="font-size:large;">
-I am a third-year CS PhD student in the School of Interactive Computing at <a href="https://www.gatech.edu/">Georgia Tech</a>, where I'm advised by Prof. <a href="http://www.munmund.net/">Munmun De Choudhury</a>. Using computational techniques from Natural Language Processing (NLP) and theories from Sociology and Psychology, <b>my research focuses on evaluating, and improving generative AI models and examining their impact on the individuals using them within healthcare, with a special emphasis on mental health</b>. Specifically, I tackle these challenges using a multi-pronged approach consisting of three line of works: <span class="highlight1"><b>(1) Works developing computational/theoretical frameworks and metrics for evaluating the performance of gen AI models for healthcare/mental health</b></span>, <span class="highlight2"><b>(2) Developing methods and resources for improving AI models for mental healthcare</b></span>, and <span class="highlight3"><b>(3) Examining the impact of using AI for mental health scenarios using experimental studies with end-users</b></span>. The goal of my research is to develop robust frameworks and methods for evaluating, and enhancing the performance, reliability and safety of AI systems for healthcare, contributing towards advancing state-of-the-art methods in Foundation Models and Human-centered AI.
+I am a third-year CS PhD student in the School of Interactive Computing at <a href="https://www.gatech.edu/">Georgia Tech</a>, where I'm advised by Prof. <a href="http://www.munmund.net/">Munmun De Choudhury</a>. Using computational techniques from Natural Language Processing (NLP) and theories from Sociology and Psychology, <b>my research focuses on evaluating, and improving generative AI models and examining their impact on the individuals using them within healthcare, with a special emphasis on mental health</b>. Specifically, I tackle these challenges using a multi-pronged approach consisting of three line of works: <b><span class="highlight1">(1)</span> Works developing computational/theoretical frameworks and metrics for evaluating the performance of gen AI models for healthcare/mental health</b></span>, <b><span class="highlight2"></span>(2) Developing methods and resources for improving AI models for mental healthcare</b></span>, and <b><span class="highlight3">(3)</span> Examining the impact of using AI for mental health scenarios using experimental studies with end-users</b></span>. The goal of my research is to develop robust frameworks and methods for evaluating, and enhancing the performance, reliability and safety of AI systems for healthcare, contributing towards advancing state-of-the-art methods in Foundation Models and Human-centered AI.
 </p>
 
 <p style="font-size:large;">
