@@ -7,15 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+    .highlight1 {
+      background-color: #FCD8CD;
+      border-radius: 4px;
+      padding: 2px 4px;
+    }
+</style>
+
 <p style="font-size:large;">
-I am a third-year CS PhD student in the School of Interactive Computing at <a href="https://www.gatech.edu/">Georgia Tech</a>, where I'm advised by Prof. <a href="http://www.munmund.net/">Munmun De Choudhury</a>. Using computational techniques from Natural Language Processing (NLP) and theories from Sociology and Psychology, <b>my research takes a human-centered approach to evaluate and improve the quality of information produced through Generative AI technologies. Focusing on attributes such as actionability, personalization, and the potential negative implications of the generated content, my work aims to align information generation and delivery with human preferences, needs, and ethical considerations.</b>
-
+I am a third-year CS PhD student in the School of Interactive Computing at <a href="https://www.gatech.edu/">Georgia Tech</a>, where I'm advised by Prof. <a href="http://www.munmund.net/">Munmun De Choudhury</a>. Using computational techniques from Natural Language Processing (NLP) and theories from Sociology and Psychology, <b>my research focuses on evaluating, and improving generative AI models and examining their impact on the individuals using them within healthcare, with a special emphasis on mental health</b>. Specifically, I tackle these challenges using a multi-pronged approach consisting of three line of works (see figure): <b>(1)</b> <span class="highlight1">Works developing computational/theoretical frameworks and metrics for evaluating the performance of gen AI models for healthcare/mental health</span>, <b>(2)</b> Developing methods and resources for improving AI models for mental healthcare, and <b>(3)</b> Examining the impact of using AI for mental health scenarios using experimental studies with end-users. The goal of my research is to develop robust frameworks and methods for evaluating, and enhancing the performance, reliability and safety of AI systems for healthcare, contributing towards advancing state-of-the-art methods in Foundation Models and Human-centered AI.
 </p>
-
-<p style="font-size:large;">
-In my dissertation, I explore the nuanced aspects of interactions between humans and online/Generative AI platforms, focusing on how variations in user backgrounds, purposes of use, and historical engagement influence the quality of information and services provided. My research aims to define and quantify low-quality information within these contexts in healthcare and mental health, establishing metrics to evaluate and improve these systems and make them safer to use. Through my research, I aim to uncover and reduce systemic issues within Generative AI technologies through systematic frameworks, providing data-driven insights to policymakers, researchers, and developers for creating more robust, safe and user-centered AI systems.
-</p>
-
 
 <p style="font-size:large;">
 Previously, I worked as a Software Engineer at Microsoft where I got an opportunity to work on NLP and Data Science related problems on Automatic Speech Recognition Systems and Bing. I graduated from <a href="https://www.iiit.ac.in/">International Institute of Information Technology, Hyderabad</a> with B.Tech (Honours) and M.S in Computer Science and Engineering. I was advised by <a href="https://precog.iiit.ac.in/">Prof. Ponnurangam Kumaraguru</a> and <a href="https://www.iiit.ac.in/people/faculty/m.shrivastava/">Dr. Manish Shrivastava</a> for my masters thesis, <i>Towards A More Holistic Approach On Online Abuse and Antisemitism</i>.
