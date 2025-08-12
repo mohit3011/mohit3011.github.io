@@ -49,7 +49,7 @@ Updates
 <div style="overflow-y: scroll; height:400px;">
 <ul>
 
-<li><p style="font-size:medium;"><b>[July 2025]:</b> Our work <b>Towards Experience-Centered AI: A Framework for Integrating Lived Experience in Design and Development</b> has been accepted to <a href="https://www.aies-conference.com/2025/">AIES 2025</a>.🥳</p></li>
+<li><p style="font-size:medium;"><b>[July 2025]:</b> Our work <b>Towards Experience-Centered AI: A Framework for Integrating Lived Experience in Design and Development</b> has been accepted to <a href="https://www.aies-conference.com/2025/">AIES 2025</a>.🥳 <a href="https://arxiv.org/pdf/2508.06849">ArXiv Link</a></p></li>
 
 <li><p style="font-size:medium;"><b>[July 2025]:</b> Our work <b>A Framework for Situating Innovations, Opportunities, and Challenges in Advancing Vertical Systems with Large AI Models</b> has been accepted to <a href="https://www.aies-conference.com/2025/">AIES 2025</a>.🥳 <a href="https://arxiv.org/abs/2504.02793">ArXiv Link</a></p></li>
 
