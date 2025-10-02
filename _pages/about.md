@@ -34,7 +34,7 @@ redirect_from:
 
 
 <p style="font-size:large;">
-I am a third-year CS PhD student in the School of Interactive Computing at <a href="https://www.gatech.edu/">Georgia Tech</a>, where I'm advised by Prof. <a href="http://www.munmund.net/">Munmun De Choudhury</a>. Using computational techniques from Natural Language Processing (NLP) and theories from Sociology and Psychology, <b>my research focuses on evaluating, and improving generative AI models and examining their impact on the individuals using them for social, emotional and information gathering use-cases</b>. Specifically, I tackle these challenges using a <span class="highlight">multi-pronged approach consisting of three line of works</span>: <b><span class="highlight">(1)</span> Works developing computational/theoretical frameworks and metrics for evaluating the performance of gen AI models for high-risk domains</b>, <b><span class="highlight">(2)</span> Developing methods and resources for improving AI models</b>, and <b><span class="highlight">(3)</span> Examining the impact of using AI on humans through experimental studies with end-users</b>. The goal of my research is to develop robust frameworks and methods for evaluating, and enhancing the performance, reliability and safety of AI systems for healthcare, contributing towards advancing state-of-the-art methods in Foundation Models and Human-centered AI.
+I am a fourth-year CS PhD student in the School of Interactive Computing at <a href="https://www.gatech.edu/">Georgia Tech</a>, where I'm advised by Prof. <a href="http://www.munmund.net/">Munmun De Choudhury</a>. Using computational techniques from Natural Language Processing (NLP) and theories from Sociology and Psychology, <b>my research focuses on evaluating, and improving generative AI models and examining their impact on the individuals using them for social, emotional and information gathering use-cases</b>. Specifically, I tackle these challenges using a multi-pronged approach consisting of three line of works: <b><span class="highlight">(1)</span> Works developing computational/theoretical frameworks and metrics for evaluating the performance of gen AI models for high-risk domains</b>, <b><span class="highlight">(2)</span> Developing methods and resources for improving AI models</b>, and <b><span class="highlight">(3)</span> Examining the impact of using AI on humans through experimental studies with end-users</b>. The goal of my research is to develop robust frameworks and methods for evaluating, and enhancing the performance, reliability and safety of AI systems for healthcare, contributing towards advancing state-of-the-art methods in Foundation Models and Human-centered AI.
 </p>
 
 <p style="font-size:large;">
@@ -48,6 +48,10 @@ Updates
 
 <div style="overflow-y: scroll; height:400px;">
 <ul>
+
+<li><p style="font-size:medium;"><b>[September 2024]:</b> Started my internship as an Applied Scientist Intern in the Applied AI group at Amazon.😄</p></li>
+
+<li><p style="font-size:medium;"><b>[September 2024]:</b> Honored to be selected as one among the 100 computer science students globally invited to attend the <a href="https://www.heidelberg-laureate-forum.org/forum/12th-hlf-2025/">12th Heidelberg Laureate Forum 2025</a>.😄</p></li>
 
 <li><p style="font-size:medium;"><b>[July 2025]:</b> Our work <b>Towards Experience-Centered AI: A Framework for Integrating Lived Experience in Design and Development</b> has been accepted to <a href="https://www.aies-conference.com/2025/">AIES 2025</a>.🥳 <a href="https://arxiv.org/pdf/2508.06849">ArXiv Link</a></p></li>
 
@@ -106,7 +110,14 @@ Experience
 
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/gt_logo.png" alt="Georgia Tech Icon" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[2022-Present]</b> Third year CS PhD student working with Prof. <a href="http://www.munmund.net/">Munmun De Choudhury</a> in the School of Interactive Computing at <a href="https://www.gatech.edu/">Georgia Tech</a></span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[2022-Present]</b> Fourth year CS PhD student working with Prof. <a href="http://www.munmund.net/">Munmun De Choudhury</a> in the School of Interactive Computing at <a href="https://www.gatech.edu/">Georgia Tech</a></span>
+</div>
+
+------
+
+<div class="row"> 
+  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/amazon_logo.png" alt="Amazon Icon" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[2025-Present]</b> Interning within the Applied AI group, where I am collaborated with Dr. Francesco Carbone and Hitesh Arora. My project focuses on increasing the efficiency of multi-agent AI systems used for data and text understanding scenarios.</span>
 </div>
 
 ------
