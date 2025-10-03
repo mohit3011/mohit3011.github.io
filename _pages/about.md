@@ -117,7 +117,7 @@ Experience
 
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/amazon_logo.png" alt="Amazon Icon" style="max-width:80%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[2025-Present]</b> Interning within the Applied AI group at Amazon, where I am collaborating with Dr. Francesco Carbone and Hitesh Arora. My work focuses on increasing the efficiency of multi-agent AI systems used for data and text understanding scenarios.</span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[2025-Present]</b> Interning within the Applied AI group at Amazon, where I am collaborating with Dr. Francesco Carbone and Hitesh Arora. My work focuses on agentic AI systems.</span>
 </div>
 
 ------
