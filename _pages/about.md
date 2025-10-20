@@ -52,6 +52,8 @@ Updates
 <div style="overflow-y: scroll; height:400px;">
 <ul>
 
+<li><p style="font-size:medium;"><b>[October 2025]:</b> Honored to receive the Google Academic Research Award 2025 for our research on safer AI companionship.🥳</p></li>
+
 <li><p style="font-size:medium;"><b>[September 2025]:</b> Started my internship as an Applied Scientist Intern in the Applied AI group at Amazon.😄</p></li>
 
 <li><p style="font-size:medium;"><b>[September 2025]:</b> Honored to be selected as one among the 100 computer science students globally invited to attend the <a href="https://www.heidelberg-laureate-forum.org/forum/12th-hlf-2025/">12th Heidelberg Laureate Forum 2025</a>.😄</p></li>
