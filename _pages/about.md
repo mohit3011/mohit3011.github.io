@@ -52,6 +52,8 @@ Updates
 <div style="overflow-y: scroll; height:400px;">
 <ul>
 
+<li><p style="font-size:medium;"><b>[March 2026]:</b> Crossed <a href="https://scholar.google.co.in/citations?hl=en&user=aZ9xHEQAAAAJ&view_op=list_works&sortby=pubdate">500 citations</a>. A small milestone; made possible by the guidance of my advisor, the support of my mentors and collaborators, and everyone who has encouraged me along the way 🙏🏼.</p></li>
+
 <li><p style="font-size:medium;"><b>[October 2025]:</b> Honored to receive the Google Academic Research Award 2025 for our research on safer AI companionship.🥳</p></li>
 
 <li><p style="font-size:medium;"><b>[September 2025]:</b> Started my internship as an Applied Scientist Intern in the Applied AI group at Amazon.😄</p></li>
