@@ -52,6 +52,8 @@ Updates
 <div style="overflow-y: scroll; height:400px;">
 <ul>
 
+<li><p style="font-size:medium;"><b>[April 2026]:</b> Our work <b>Reasoning Is Not All You Need: Examining LLMs for Multi-Turn Mental Health Conversations</b> has been accepted to <a href="https://2026.aclweb.org/">ACL 2026 (Main)</a>.🥳</p></li>
+
 <li><p style="font-size:medium;"><b>[March 2026]:</b> Crossed <a href="https://scholar.google.co.in/citations?hl=en&user=aZ9xHEQAAAAJ&view_op=list_works&sortby=pubdate">500 citations</a>. A small milestone; made possible by the guidance of my advisor, the support of my mentors and collaborators, and everyone who has encouraged me along the way 🙏🏼.</p></li>
 
 <li><p style="font-size:medium;"><b>[October 2025]:</b> Honored to receive the Google Academic Research Award 2025 for our research on safer AI companionship.🥳</p></li>
