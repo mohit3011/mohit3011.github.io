@@ -127,8 +127,15 @@ Experience
 ------
 
 <div class="row"> 
+  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/ms_logo.png" alt="Microsoft Icon" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[2026-Present]</b> Interning within the Outlook X Copilot group at Microsoft, where I am collaborating with Dr. <a href="https://acwio.github.io/">Alex Williams</a>, Dr. <a href="https://www.hyeonsukang.com/">Hyeonsu B. Kang</a>, and Dr. <a href="https://vivlai.github.io/">Vivian Lai</a>. My work focuses on AI Safety and Red-Teaming.</span>
+</div>
+
+------
+
+<div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/amazon_logo.png" alt="Amazon Icon" style="max-width:80%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[2025-Present]</b> Interning within the Applied AI group at Amazon, where I am collaborating with Dr. Francesco Carbone and Hitesh Arora. My work focuses on agentic AI systems.</span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[2025-2026]</b> Interned within the Applied AI group at Amazon, where I collaborated with Dr. Francesco Carbone and Hitesh Arora. My work focused on developing a query and topic agnostic hybrid-LLM routing protocol to route agentic tool calling queries based on cost, latency and performance constraints provided by the user.</span>
 </div>
 
 ------
