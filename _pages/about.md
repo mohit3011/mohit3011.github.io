@@ -130,7 +130,7 @@ Experience
 
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="/images/ms_logo.png" alt="Microsoft Icon" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[2026-Present]</b> Interning within the Outlook X Copilot group at Microsoft, where I am collaborating with Dr. <a href="https://acwio.github.io/">Alex Williams</a>, Dr. <a href="https://www.hyeonsukang.com/">Hyeonsu B. Kang</a>, and Dr. <a href="https://vivlai.github.io/">Vivian Lai</a>. My work focuses on AI Safety and Red-Teaming.</span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[2026-2026]</b> Interned within the Outlook X Copilot group at Microsoft, where I am collaborated with Dr. <a href="https://acwio.github.io/">Alex Williams</a>, Dr. <a href="https://www.hyeonsukang.com/">Hyeonsu B. Kang</a>, and Dr. <a href="https://vivlai.github.io/">Vivian Lai</a>. My work focused on AI Safety and Red-Teaming.</span>
 </div>
 
 ------
