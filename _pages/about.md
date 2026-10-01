@@ -34,11 +34,11 @@ redirect_from:
 
 
 <p style="font-size:large;">
-I am a fourth-year CS PhD student in the School of Interactive Computing at <a href="https://www.gatech.edu/">Georgia Tech</a>, where I'm advised by Prof. <a href="http://www.munmund.net/">Munmun De Choudhury</a>. Using computational techniques from Natural Language Processing (NLP) and theories from Sociology and Psychology, <b>my research focuses on evaluating, and improving generative AI models and examining their impact on the individuals, with a focus on personalization, safety, and reliability</b>.</p>
+I am a final-year CS PhD candidate in the School of Interactive Computing at <a href="https://www.gatech.edu/">Georgia Tech</a>, where I'm advised by Prof. <a href="http://www.munmund.net/">Munmun De Choudhury</a>. Using computational techniques from Natural Language Processing (NLP) and theories from Sociology and Psychology, <b>my research focuses on establishing methodologies and frameworks for assessing, operationalizing, and integrating dimensions of human lived experiences within generative AI systems for mental health and social/emotional use-cases of AI</b>.</p>
 
-<p style="font-size:large;">Specifically, I tackle these challenges using a multi-pronged approach consisting of three line of works: <b><span class="highlight">(1)</span> Works developing computational/theoretical frameworks and metrics for evaluating the performance of gen AI models for high-risk domains</b>, <b><span class="highlight">(2)</span> Developing data generation and post-training methods and resources for improving AI models</b>, and <b><span class="highlight">(3)</span> Examining the impact of using AI on humans through experimental studies with end-users</b>.</p>
+<p style="font-size:large;">Specifically, I tackle these challenges using a multi-pronged approach consisting of three line of works: <b><span class="highlight">(1)</span> Developing computational/theoretical methodologies and metrics for assessing the presence of human lived experiences within gen AI systems</b>, <b><span class="highlight">(2)</span> Operationalizing frameworks for capturing stakholders' insights and synthetic data generation</b>, and <b><span class="highlight">(3)</span> Integrating stakeholder insights into model alignment and response generation during post-training and inference-time</b>.</p>
 
-<p style="font-size:large;">My research has been featured in leading media outlets (<a href="https://www.scientificamerican.com/article/chatbots-medical-questions-language/">Scientific American</a>, <a href="https://theworld.org/segments/2024/04/04/chatbots-making-mistakes-when-translating-medical-advice-in-some-languages">The World</a>) and published in premier venues such as the ACL, ACM Web Conference, NAACL, EMNLP, ACM FAccT, ACM/AAAI AIES, AAAI ICWSM, ACM WebScience, and COLING. During my Ph.D., I have also spent time as a Research Intern at Microsoft Research and Applied Scientist Intern at Amazon.</p>
+<p style="font-size:large;">My research has been featured in leading media outlets (<a href="https://www.scientificamerican.com/article/chatbots-medical-questions-language/">Scientific American</a>, <a href="https://theworld.org/segments/2024/04/04/chatbots-making-mistakes-when-translating-medical-advice-in-some-languages">The World</a>) and published in premier venues such as the ACL, ACM Web Conference, NAACL, EMNLP, ACM FAccT, ACM/AAAI AIES, AAAI ICWSM, ACM WebScience, and COLING. During my Ph.D., I have also spent time as a Research/Applied Science Intern at Microsoft, Microsoft Research and Amazon.</p>
 
 <p style="font-size:large;">
 Previously, I worked as a Software Engineer at Microsoft where I got an opportunity to work on NLP and Data Science related problems on Automatic Speech Recognition Systems and Bing. I graduated from <a href="https://www.iiit.ac.in/">International Institute of Information Technology, Hyderabad</a> with B.Tech (Honours) and M.S in Computer Science and Engineering. I was advised by <a href="https://precog.iiit.ac.in/">Prof. Ponnurangam Kumaraguru</a> and <a href="https://www.iiit.ac.in/people/faculty/m.shrivastava/">Dr. Manish Shrivastava</a> for my masters thesis, <i>Towards A More Holistic Approach On Online Abuse and Antisemitism</i>.
@@ -51,6 +51,8 @@ Updates
 
 <div style="overflow-y: scroll; height:400px;">
 <ul>
+
+<li><p style="font-size:medium;"><b>[September 2026]:</b> Passed my Ph.D. Thesis Proposal at Georgia Tech. I am a Ph.D. Candidate now!📚🥳</p></li>
 
 <li><p style="font-size:medium;"><b>[May 2026]:</b> Started my internship as an Applied Scientist Intern within the Outlook x Copilot group at Microsoft.😄</p></li>
 
