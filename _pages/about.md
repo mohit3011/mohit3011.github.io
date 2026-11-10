@@ -52,9 +52,9 @@ Updates
 <div style="overflow-y: scroll; height:400px;">
 <ul>
 
-<li><p style="font-size:medium;"><b>[September 2026]:</b> Passed my Ph.D. Thesis Proposal at Georgia Tech. I am a Ph.D. Candidate now!📚🥳</p></li>
+<li><p style="font-size:medium;"><b>[October 2026]:</b> Honored to be selected as <a href="https://news.research.gatech.edu/2026/11/04/foley-scholar-winners-and-finalists">an IPaT Ph.D. Foley Scholar 2026</a>. IPaT Ph.D. Foley Scholar is the highest award for PhD student contributions to computing research at Georgia Tech 🙏🏼.</p></li>
 
-<li><p style="font-size:medium;"><b>[September 2026]:</b> Honored to be selected as <a href="https://peopletech.gatech.edu/students/foley-scholar-awards">an IPaT Ph.D. Foley Scholar 2026 Finalist</a>. IPaT Ph.D. Foley Scholar is the highest award for PhD student contributions to computing research at Georgia Tech 🙏🏼.</p></li>
+<li><p style="font-size:medium;"><b>[September 2026]:</b> Passed my Ph.D. Thesis Proposal at Georgia Tech. I am a Ph.D. Candidate now!📚🥳</p></li>
 
 <li><p style="font-size:medium;"><b>[May 2026]:</b> Started my internship as an Applied Scientist Intern within the Outlook x Copilot group at Microsoft.😄</p></li>
 
